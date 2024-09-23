@@ -10,7 +10,9 @@
     "description": "Province Boundary is not correct at some places",
     "st_area(shape)": 0.4693530401415996,
     "st_length(shape)": 4.832320659504207,
-    "PROV": "CENTRAL_1"
+    "PROV": "CENTRAL_1",
+    "type": "province",
+    "filename": "PROV_CENTRAL_1.geojson"
   },
   {
     "fid": 2,
@@ -23,7 +25,9 @@
     "description": "",
     "st_area(shape)": 0.8026964012129643,
     "st_length(shape)": 9.946280687803469,
-    "PROV": "EASTERN_2"
+    "PROV": "EASTERN_2",
+    "type": "province",
+    "filename": "PROV_EASTERN_2.geojson"
   },
   {
     "fid": 3,
@@ -36,7 +40,9 @@
     "description": "Province Boundary is not correct at some places",
     "st_area(shape)": 0.8771702754080013,
     "st_length(shape)": 7.029642993109487,
-    "PROV": "NORTH CENTRAL_3"
+    "PROV": "NORTH CENTRAL_3",
+    "type": "province",
+    "filename": "PROV_NORTH CENTRAL_3.geojson"
   },
   {
     "fid": 4,
@@ -49,7 +55,9 @@
     "description": "",
     "st_area(shape)": 0.6612034100747869,
     "st_length(shape)": 7.172716174365959,
-    "PROV": "NORTH_WESTERN_4"
+    "PROV": "NORTH_WESTERN_4",
+    "type": "province",
+    "filename": "PROV_NORTH_WESTERN_4.geojson"
   },
   {
     "fid": 5,
@@ -62,7 +70,9 @@
     "description": "",
     "st_area(shape)": 0.7433931277955682,
     "st_length(shape)": 14.223005921702345,
-    "PROV": "NORTHERN_5"
+    "PROV": "NORTHERN_5",
+    "type": "province",
+    "filename": "PROV_NORTHERN_5.geojson"
   },
   {
     "fid": 6,
@@ -75,7 +85,9 @@
     "description": "Province Boundary is not correct at some places",
     "st_area(shape)": 0.4045202627961443,
     "st_length(shape)": 4.854022480986446,
-    "PROV": "SABARAGAMUWA_6"
+    "PROV": "SABARAGAMUWA_6",
+    "type": "province",
+    "filename": "PROV_SABARAGAMUWA_6.geojson"
   },
   {
     "fid": 7,
@@ -88,7 +100,9 @@
     "description": "Province Boundary is not correct at some places",
     "st_area(shape)": 0.45336590391853643,
     "st_length(shape)": 5.725233381593173,
-    "PROV": "SOUTHERN_7"
+    "PROV": "SOUTHERN_7",
+    "type": "province",
+    "filename": "PROV_SOUTHERN_7.geojson"
   },
   {
     "fid": 8,
@@ -101,7 +115,9 @@
     "description": "Province Boundary is not correct at some places",
     "st_area(shape)": 0.7057144527187045,
     "st_length(shape)": 5.577679616586134,
-    "PROV": "UVA_8"
+    "PROV": "UVA_8",
+    "type": "province",
+    "filename": "PROV_UVA_8.geojson"
   },
   {
     "fid": 9,
@@ -114,6 +130,8 @@
     "description": "",
     "st_area(shape)": 0.3067207876185538,
     "st_length(shape)": 3.767996598113262,
-    "PROV": "WESTERN_9"
+    "PROV": "WESTERN_9",
+    "type": "province",
+    "filename": "PROV_WESTERN_9.geojson"
   }
 ]

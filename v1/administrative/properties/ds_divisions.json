@@ -11,7 +11,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.006092186245985705,
-    "st_length(shape)": 0.44588229010421054
+    "st_length(shape)": 0.44588229010421054,
+    "type": "ds_divisions",
+    "filename": "DS_ADDALAICHENAI_1.geojson"
   },
   {
     "fid": 2,
@@ -25,7 +27,9 @@
     "adjusted_area": null,
     "description": "DSD Boundary Problems",
     "st_area(shape)": 0.004602053778189866,
-    "st_length(shape)": 0.5418455337782936
+    "st_length(shape)": 0.5418455337782936,
+    "type": "ds_divisions",
+    "filename": "DS_AKKARAIPATTU_2.geojson"
   },
   {
     "fid": 3,
@@ -39,7 +43,9 @@
     "adjusted_area": null,
     "description": "DSD Boundary Problems",
     "st_area(shape)": 0.00543713397292834,
-    "st_length(shape)": 0.42402298748590833
+    "st_length(shape)": 0.42402298748590833,
+    "type": "ds_divisions",
+    "filename": "DS_ALAYADIVEMBU_3.geojson"
   },
   {
     "fid": 4,
@@ -53,7 +59,9 @@
     "adjusted_area": null,
     "description": "DSD Boundary Problems",
     "st_area(shape)": 0.011424434190860406,
-    "st_length(shape)": 0.7815353638293525
+    "st_length(shape)": 0.7815353638293525,
+    "type": "ds_divisions",
+    "filename": "DS_AMPARA_4.geojson"
   },
   {
     "fid": 5,
@@ -67,7 +75,9 @@
     "adjusted_area": null,
     "description": "DSD Boundary Problems",
     "st_area(shape)": 0.04014882628686399,
-    "st_length(shape)": 1.1882872958970279
+    "st_length(shape)": 1.1882872958970279,
+    "type": "ds_divisions",
+    "filename": "DS_DAMANA_5.geojson"
   },
   {
     "fid": 6,
@@ -81,7 +91,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.030662060295647636,
-    "st_length(shape)": 1.101667320505349
+    "st_length(shape)": 1.101667320505349,
+    "type": "ds_divisions",
+    "filename": "DS_DEHIATTAKANDIYA_6.geojson"
   },
   {
     "fid": 7,
@@ -95,7 +107,9 @@
     "adjusted_area": null,
     "description": "DSD Boundary Problems",
     "st_area(shape)": 0.005489035434068257,
-    "st_length(shape)": 0.47593798287916866
+    "st_length(shape)": 0.47593798287916866,
+    "type": "ds_divisions",
+    "filename": "DS_IRAKKAMAM_7.geojson"
   },
   {
     "fid": 8,
@@ -109,7 +123,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0016596562351816734,
-    "st_length(shape)": 0.21699847048359236
+    "st_length(shape)": 0.21699847048359236,
+    "type": "ds_divisions",
+    "filename": "DS_KALMUNAI_8.geojson"
   },
   {
     "fid": 9,
@@ -123,7 +139,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.007554825739321826,
-    "st_length(shape)": 0.5262301551270973
+    "st_length(shape)": 0.5262301551270973,
+    "type": "ds_divisions",
+    "filename": "DS_NUWARAGAM PALATHA EAST_9.geojson"
   },
   {
     "fid": 10,
@@ -137,7 +155,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.020322920940263414,
-    "st_length(shape)": 0.8565801258623739
+    "st_length(shape)": 0.8565801258623739,
+    "type": "ds_divisions",
+    "filename": "DS_PADAVIYA_10.geojson"
   },
   {
     "fid": 11,
@@ -151,7 +171,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.018420136024853317,
-    "st_length(shape)": 0.7756371995994502
+    "st_length(shape)": 0.7756371995994502,
+    "type": "ds_divisions",
+    "filename": "DS_PALAGALA_11.geojson"
   },
   {
     "fid": 12,
@@ -165,7 +187,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.016681890041823823,
-    "st_length(shape)": 0.8956237123168445
+    "st_length(shape)": 0.8956237123168445,
+    "type": "ds_divisions",
+    "filename": "DS_PALUGASWEWA_12.geojson"
   },
   {
     "fid": 13,
@@ -179,7 +203,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.008684970901263337,
-    "st_length(shape)": 0.7988447090833551
+    "st_length(shape)": 0.7988447090833551,
+    "type": "ds_divisions",
+    "filename": "DS_RAJANGANAYA_13.geojson"
   },
   {
     "fid": 14,
@@ -193,7 +219,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.025135948249988507,
-    "st_length(shape)": 1.1057187342682886
+    "st_length(shape)": 1.1057187342682886,
+    "type": "ds_divisions",
+    "filename": "DS_RAMBEWA_14.geojson"
   },
   {
     "fid": 15,
@@ -207,7 +235,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.018769751897401196,
-    "st_length(shape)": 1.1784557881668627
+    "st_length(shape)": 1.1784557881668627,
+    "type": "ds_divisions",
+    "filename": "DS_THALAWA_15.geojson"
   },
   {
     "fid": 16,
@@ -221,7 +251,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.009299680697999258,
-    "st_length(shape)": 0.7151338186887729
+    "st_length(shape)": 0.7151338186887729,
+    "type": "ds_divisions",
+    "filename": "DS_THAMBUTHTHEGAMA_16.geojson"
   },
   {
     "fid": 17,
@@ -235,7 +267,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.022350216309438262,
-    "st_length(shape)": 1.3371657759890765
+    "st_length(shape)": 1.3371657759890765,
+    "type": "ds_divisions",
+    "filename": "DS_THIRAPPANE_17.geojson"
   },
   {
     "fid": 18,
@@ -249,7 +283,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.003997469466410091,
-    "st_length(shape)": 0.33112629578992026
+    "st_length(shape)": 0.33112629578992026,
+    "type": "ds_divisions",
+    "filename": "DS_BADULLA_18.geojson"
   },
   {
     "fid": 19,
@@ -263,7 +299,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0057997011938878,
-    "st_length(shape)": 0.5512064164365159
+    "st_length(shape)": 0.5512064164365159,
+    "type": "ds_divisions",
+    "filename": "DS_BANDARAWELA_19.geojson"
   },
   {
     "fid": 20,
@@ -277,7 +315,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.008967616284882837,
-    "st_length(shape)": 0.5376033792570184
+    "st_length(shape)": 0.5376033792570184,
+    "type": "ds_divisions",
+    "filename": "DS_ELLA_20.geojson"
   },
   {
     "fid": 21,
@@ -291,7 +331,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.033954955847717086,
-    "st_length(shape)": 1.3698878307174647
+    "st_length(shape)": 1.3698878307174647,
+    "type": "ds_divisions",
+    "filename": "DS_HALDUMMULLA_21.geojson"
   },
   {
     "fid": 22,
@@ -305,7 +347,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.013914158468152499,
-    "st_length(shape)": 0.8510742773572302
+    "st_length(shape)": 0.8510742773572302,
+    "type": "ds_divisions",
+    "filename": "DS_HALI-ELA_22.geojson"
   },
   {
     "fid": 23,
@@ -319,7 +363,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0056471309174872,
-    "st_length(shape)": 0.5318027896525215
+    "st_length(shape)": 0.5318027896525215,
+    "type": "ds_divisions",
+    "filename": "DS_HAPUTALE_23.geojson"
   },
   {
     "fid": 24,
@@ -333,7 +379,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.012337767833864546,
-    "st_length(shape)": 0.6476797255337976
+    "st_length(shape)": 0.6476797255337976,
+    "type": "ds_divisions",
+    "filename": "DS_KANDEKETIYA_24.geojson"
   },
   {
     "fid": 25,
@@ -347,7 +395,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.011703768636235085,
-    "st_length(shape)": 0.6513789797450616
+    "st_length(shape)": 0.6513789797450616,
+    "type": "ds_divisions",
+    "filename": "DS_LUNUGALA_25.geojson"
   },
   {
     "fid": 26,
@@ -361,7 +411,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.049300761535093246,
-    "st_length(shape)": 1.800674271758106
+    "st_length(shape)": 1.800674271758106,
+    "type": "ds_divisions",
+    "filename": "DS_MAHIYANGANAYA_26.geojson"
   },
   {
     "fid": 27,
@@ -375,7 +427,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.008907283164429325,
-    "st_length(shape)": 0.6052436302093553
+    "st_length(shape)": 0.6052436302093553,
+    "type": "ds_divisions",
+    "filename": "DS_MEEGAHAKIULA_27.geojson"
   },
   {
     "fid": 28,
@@ -389,7 +443,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.01101365765199666,
-    "st_length(shape)": 0.764348487636922
+    "st_length(shape)": 0.764348487636922,
+    "type": "ds_divisions",
+    "filename": "DS_PASSARA_28.geojson"
   },
   {
     "fid": 29,
@@ -403,7 +459,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.03579437697060418,
-    "st_length(shape)": 1.2628563425601953
+    "st_length(shape)": 1.2628563425601953,
+    "type": "ds_divisions",
+    "filename": "DS_RIDEEMALIYADDA_29.geojson"
   },
   {
     "fid": 30,
@@ -417,7 +475,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.006588027464233406,
-    "st_length(shape)": 0.42040695791626026
+    "st_length(shape)": 0.42040695791626026,
+    "type": "ds_divisions",
+    "filename": "DS_SORANATHOTA_30.geojson"
   },
   {
     "fid": 31,
@@ -431,7 +491,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.011267041494221322,
-    "st_length(shape)": 0.6171009223334879
+    "st_length(shape)": 0.6171009223334879,
+    "type": "ds_divisions",
+    "filename": "DS_UVAPARANAGAMA_31.geojson"
   },
   {
     "fid": 32,
@@ -445,7 +507,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.015871112989504534,
-    "st_length(shape)": 0.7341324117816738
+    "st_length(shape)": 0.7341324117816738,
+    "type": "ds_divisions",
+    "filename": "DS_WELIMADA_32.geojson"
   },
   {
     "fid": 33,
@@ -459,7 +523,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.04911309317723133,
-    "st_length(shape)": 1.7102454331528762
+    "st_length(shape)": 1.7102454331528762,
+    "type": "ds_divisions",
+    "filename": "DS_ERAVUR PATTU_33.geojson"
   },
   {
     "fid": 34,
@@ -473,7 +539,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.001795276214125419,
-    "st_length(shape)": 0.2712770593484491
+    "st_length(shape)": 0.2712770593484491,
+    "type": "ds_divisions",
+    "filename": "DS_KELANIYA_34.geojson"
   },
   {
     "fid": 35,
@@ -487,7 +555,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.007836029865277434,
-    "st_length(shape)": 0.9689981483778377
+    "st_length(shape)": 0.9689981483778377,
+    "type": "ds_divisions",
+    "filename": "DS_MAHARA_35.geojson"
   },
   {
     "fid": 36,
@@ -501,7 +571,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.01081562590779028,
-    "st_length(shape)": 0.6572035005928593
+    "st_length(shape)": 0.6572035005928593,
+    "type": "ds_divisions",
+    "filename": "DS_MINUWANGODA_36.geojson"
   },
   {
     "fid": 37,
@@ -515,7 +587,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.01545869938702038,
-    "st_length(shape)": 0.9472339085517372
+    "st_length(shape)": 0.9472339085517372,
+    "type": "ds_divisions",
+    "filename": "DS_MIRIGAMA_37.geojson"
   },
   {
     "fid": 38,
@@ -529,7 +603,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0023897758552264797,
-    "st_length(shape)": 0.5747851470148712
+    "st_length(shape)": 0.5747851470148712,
+    "type": "ds_divisions",
+    "filename": "DS_NEGOMBO_38.geojson"
   },
   {
     "fid": 39,
@@ -543,7 +619,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.002582817621994314,
-    "st_length(shape)": 0.4027113274439742
+    "st_length(shape)": 0.4027113274439742,
+    "type": "ds_divisions",
+    "filename": "DS_WATER AREA(LAGOON)_39.geojson"
   },
   {
     "fid": 40,
@@ -557,7 +635,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.004678897123262889,
-    "st_length(shape)": 0.518255935746743
+    "st_length(shape)": 0.518255935746743,
+    "type": "ds_divisions",
+    "filename": "DS_WATTALA_40.geojson"
   },
   {
     "fid": 41,
@@ -571,7 +651,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.01738283032440865,
-    "st_length(shape)": 0.7279584533203347
+    "st_length(shape)": 0.7279584533203347,
+    "type": "ds_divisions",
+    "filename": "DS_AMBALANTOTA_41.geojson"
   },
   {
     "fid": 42,
@@ -585,7 +667,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.01399542311020442,
-    "st_length(shape)": 0.7159458913059409
+    "st_length(shape)": 0.7159458913059409,
+    "type": "ds_divisions",
+    "filename": "DS_ANGUNAKOLAPELESSA_42.geojson"
   },
   {
     "fid": 43,
@@ -599,7 +683,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.008370714453249052,
-    "st_length(shape)": 0.5591989375192513
+    "st_length(shape)": 0.5591989375192513,
+    "type": "ds_divisions",
+    "filename": "DS_BELIATTA_43.geojson"
   },
   {
     "fid": 44,
@@ -613,7 +699,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.02808953974256889,
-    "st_length(shape)": 1.2854765584561327
+    "st_length(shape)": 1.2854765584561327,
+    "type": "ds_divisions",
+    "filename": "DS_HAMBANTOTA_44.geojson"
   },
   {
     "fid": 45,
@@ -627,7 +715,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.008564262798788875,
-    "st_length(shape)": 0.5639440738595145
+    "st_length(shape)": 0.5639440738595145,
+    "type": "ds_divisions",
+    "filename": "DS_KATUWANA_45.geojson"
   },
   {
     "fid": 46,
@@ -641,7 +731,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.023535253298612,
-    "st_length(shape)": 1.1574578614943474
+    "st_length(shape)": 1.1574578614943474,
+    "type": "ds_divisions",
+    "filename": "DS_LUNUGAMWEHERA_46.geojson"
   },
   {
     "fid": 47,
@@ -655,7 +747,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.003434901243585597,
-    "st_length(shape)": 0.43177356507255105
+    "st_length(shape)": 0.43177356507255105,
+    "type": "ds_divisions",
+    "filename": "DS_OKEWELA_47.geojson"
   },
   {
     "fid": 48,
@@ -669,7 +763,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.015827633359644728,
-    "st_length(shape)": 0.8021186824611564
+    "st_length(shape)": 0.8021186824611564,
+    "type": "ds_divisions",
+    "filename": "DS_SOORIYAWEWA_48.geojson"
   },
   {
     "fid": 49,
@@ -683,7 +779,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.012473671476055674,
-    "st_length(shape)": 0.8070233920260275
+    "st_length(shape)": 0.8070233920260275,
+    "type": "ds_divisions",
+    "filename": "DS_TANGALLE_49.geojson"
   },
   {
     "fid": 50,
@@ -697,7 +795,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.06484333326504736,
-    "st_length(shape)": 1.7834922387998586
+    "st_length(shape)": 1.7834922387998586,
+    "type": "ds_divisions",
+    "filename": "DS_THISSAMAHARAMA_50.geojson"
   },
   {
     "fid": 51,
@@ -711,7 +811,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0088684579775842,
-    "st_length(shape)": 0.6663402680917578
+    "st_length(shape)": 0.6663402680917578,
+    "type": "ds_divisions",
+    "filename": "DS_WALASMULLA_51.geojson"
   },
   {
     "fid": 52,
@@ -725,7 +827,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.009369655080907783,
-    "st_length(shape)": 0.6407862365481912
+    "st_length(shape)": 0.6407862365481912,
+    "type": "ds_divisions",
+    "filename": "DS_WEERAKETIYA_52.geojson"
   },
   {
     "fid": 53,
@@ -739,7 +843,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.003988749090482392,
-    "st_length(shape)": 0.3440773704649119
+    "st_length(shape)": 0.3440773704649119,
+    "type": "ds_divisions",
+    "filename": "DS_DELFT_53.geojson"
   },
   {
     "fid": 54,
@@ -753,7 +859,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0008309273338068942,
-    "st_length(shape)": 0.12264766772199995
+    "st_length(shape)": 0.12264766772199995,
+    "type": "ds_divisions",
+    "filename": "DS_KARAITIVU_54.geojson"
   },
   {
     "fid": 55,
@@ -767,7 +875,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.06668543957483525,
-    "st_length(shape)": 1.267514747486673
+    "st_length(shape)": 1.267514747486673,
+    "type": "ds_divisions",
+    "filename": "DS_LAHUGALA_55.geojson"
   },
   {
     "fid": 56,
@@ -781,7 +891,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0557492109373343,
-    "st_length(shape)": 1.407092888516753
+    "st_length(shape)": 1.407092888516753,
+    "type": "ds_divisions",
+    "filename": "DS_MAHAOYA_56.geojson"
   },
   {
     "fid": 57,
@@ -795,7 +907,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.006537376013992718,
-    "st_length(shape)": 0.43069375041746993
+    "st_length(shape)": 0.43069375041746993,
+    "type": "ds_divisions",
+    "filename": "DS_NAVITHANVELI_57.geojson"
   },
   {
     "fid": 58,
@@ -809,7 +923,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0029432316341789734,
-    "st_length(shape)": 0.2532462242054547
+    "st_length(shape)": 0.2532462242054547,
+    "type": "ds_divisions",
+    "filename": "DS_NINTAVUR_58.geojson"
   },
   {
     "fid": 59,
@@ -823,7 +939,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.03179959958812817,
-    "st_length(shape)": 1.1768123057439495
+    "st_length(shape)": 1.1768123057439495,
+    "type": "ds_divisions",
+    "filename": "DS_PADIYATHALAWA_59.geojson"
   },
   {
     "fid": 60,
@@ -837,7 +955,9 @@
     "adjusted_area": null,
     "description": "DSD Boundary Problems",
     "st_area(shape)": 0.0298031093888769,
-    "st_length(shape)": 0.8476093353943553
+    "st_length(shape)": 0.8476093353943553,
+    "type": "ds_divisions",
+    "filename": "DS_POTTUVIL_60.geojson"
   },
   {
     "fid": 61,
@@ -851,7 +971,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.00027445262105898804,
-    "st_length(shape)": 0.07308769339200077
+    "st_length(shape)": 0.07308769339200077,
+    "type": "ds_divisions",
+    "filename": "DS_SAINTHAMARUTHU_61.geojson"
   },
   {
     "fid": 62,
@@ -865,7 +987,9 @@
     "adjusted_area": null,
     "description": "DSD Boundary Problems",
     "st_area(shape)": 0.008919087837453656,
-    "st_length(shape)": 0.5742520573938042
+    "st_length(shape)": 0.5742520573938042,
+    "type": "ds_divisions",
+    "filename": "DS_SAMMANTHURAI_62.geojson"
   },
   {
     "fid": 63,
@@ -879,7 +1003,9 @@
     "adjusted_area": null,
     "description": "DSD Boundary Problems",
     "st_area(shape)": 0.013396302786486463,
-    "st_length(shape)": 0.6670609706037935
+    "st_length(shape)": 0.6670609706037935,
+    "type": "ds_divisions",
+    "filename": "DS_TIRUKKOVIL_63.geojson"
   },
   {
     "fid": 64,
@@ -893,7 +1019,9 @@
     "adjusted_area": null,
     "description": "DSD Boundary Problems",
     "st_area(shape)": 0.0438639449615853,
-    "st_length(shape)": 1.1519143351167522
+    "st_length(shape)": 1.1519143351167522,
+    "type": "ds_divisions",
+    "filename": "DS_UHANA_64.geojson"
   },
   {
     "fid": 65,
@@ -907,7 +1035,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.024009544734540002,
-    "st_length(shape)": 1.005467923997164
+    "st_length(shape)": 1.005467923997164,
+    "type": "ds_divisions",
+    "filename": "DS_GALENBIDUNUWEWA_65.geojson"
   },
   {
     "fid": 66,
@@ -921,7 +1051,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.011366388785714871,
-    "st_length(shape)": 0.6114349521932562
+    "st_length(shape)": 0.6114349521932562,
+    "type": "ds_divisions",
+    "filename": "DS_GALNEWA_66.geojson"
   },
   {
     "fid": 67,
@@ -935,7 +1067,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.06840363978830069,
-    "st_length(shape)": 1.5880974281503717
+    "st_length(shape)": 1.5880974281503717,
+    "type": "ds_divisions",
+    "filename": "DS_HOROWPATHANA_67.geojson"
   },
   {
     "fid": 68,
@@ -949,7 +1083,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.011621802211940221,
-    "st_length(shape)": 0.6859804456634049
+    "st_length(shape)": 0.6859804456634049,
+    "type": "ds_divisions",
+    "filename": "DS_IPALOGAMA_68.geojson"
   },
   {
     "fid": 69,
@@ -963,7 +1099,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.03039875372834868,
-    "st_length(shape)": 1.2004852741382441
+    "st_length(shape)": 1.2004852741382441,
+    "type": "ds_divisions",
+    "filename": "DS_KAHATAGASDIGILIYA_69.geojson"
   },
   {
     "fid": 70,
@@ -977,7 +1115,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.050422779380512144,
-    "st_length(shape)": 1.5624867299715934
+    "st_length(shape)": 1.5624867299715934,
+    "type": "ds_divisions",
+    "filename": "DS_KEBITHIGOLLEWA_70.geojson"
   },
   {
     "fid": 71,
@@ -991,7 +1131,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.028443594304144462,
-    "st_length(shape)": 1.3647431821148064
+    "st_length(shape)": 1.3647431821148064,
+    "type": "ds_divisions",
+    "filename": "DS_KEKIRAWA_71.geojson"
   },
   {
     "fid": 72,
@@ -1005,7 +1147,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.050667720578907845,
-    "st_length(shape)": 1.2022251816276412
+    "st_length(shape)": 1.2022251816276412,
+    "type": "ds_divisions",
+    "filename": "DS_MAHAWILACHCHIYA_72.geojson"
   },
   {
     "fid": 73,
@@ -1019,7 +1163,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.040181243611172826,
-    "st_length(shape)": 0.9897492742174813
+    "st_length(shape)": 0.9897492742174813,
+    "type": "ds_divisions",
+    "filename": "DS_MEDAWACHCHIYA_73.geojson"
   },
   {
     "fid": 74,
@@ -1033,7 +1179,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.018834620345329057,
-    "st_length(shape)": 0.9535444635091385
+    "st_length(shape)": 0.9535444635091385,
+    "type": "ds_divisions",
+    "filename": "DS_MIHINTHALE_74.geojson"
   },
   {
     "fid": 75,
@@ -1047,7 +1195,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.009030304054000966,
-    "st_length(shape)": 0.8459606659381503
+    "st_length(shape)": 0.8459606659381503,
+    "type": "ds_divisions",
+    "filename": "DS_NACHCHADUWA_75.geojson"
   },
   {
     "fid": 76,
@@ -1061,7 +1211,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.06881093703879274,
-    "st_length(shape)": 1.6547140944838026
+    "st_length(shape)": 1.6547140944838026,
+    "type": "ds_divisions",
+    "filename": "DS_NOCHCHIYAGAMA_76.geojson"
   },
   {
     "fid": 77,
@@ -1075,7 +1227,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.03293587248438007,
-    "st_length(shape)": 1.1168725405867685
+    "st_length(shape)": 1.1168725405867685,
+    "type": "ds_divisions",
+    "filename": "DS_NUWARAGAM PALATHA CENTRAL_77.geojson"
   },
   {
     "fid": 78,
@@ -1089,7 +1243,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.00015286215927501654,
-    "st_length(shape)": 0.053545265389258655
+    "st_length(shape)": 0.053545265389258655,
+    "type": "ds_divisions",
+    "filename": "DS_ERAVUR TOWN_78.geojson"
   },
   {
     "fid": 79,
@@ -1103,7 +1259,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0003176396025795976,
-    "st_length(shape)": 0.08034834410970522
+    "st_length(shape)": 0.08034834410970522,
+    "type": "ds_divisions",
+    "filename": "DS_KATTANKUDY_79.geojson"
   },
   {
     "fid": 80,
@@ -1117,7 +1275,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.002516682275116012,
-    "st_length(shape)": 0.4461276785212898
+    "st_length(shape)": 0.4461276785212898,
+    "type": "ds_divisions",
+    "filename": "DS_KORALAI PATTU_80.geojson"
   },
   {
     "fid": 81,
@@ -1131,7 +1291,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0006591760796213827,
-    "st_length(shape)": 0.24520147373302775
+    "st_length(shape)": 0.24520147373302775,
+    "type": "ds_divisions",
+    "filename": "DS_KORALAI PATTU CENTRAL_81.geojson"
   },
   {
     "fid": 82,
@@ -1145,7 +1307,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.04228887145802209,
-    "st_length(shape)": 1.7281980822957483
+    "st_length(shape)": 1.7281980822957483,
+    "type": "ds_divisions",
+    "filename": "DS_KORALAI PATTU NORTH_82.geojson"
   },
   {
     "fid": 83,
@@ -1159,7 +1323,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.04906030590302611,
-    "st_length(shape)": 1.4103707938889978
+    "st_length(shape)": 1.4103707938889978,
+    "type": "ds_divisions",
+    "filename": "DS_KORALAI PATTU SOUTH_83.geojson"
   },
   {
     "fid": 84,
@@ -1173,7 +1339,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0018807652941280504,
-    "st_length(shape)": 0.3367893692323114
+    "st_length(shape)": 0.3367893692323114,
+    "type": "ds_divisions",
+    "filename": "DS_KORALAI PATTU WEST_84.geojson"
   },
   {
     "fid": 85,
@@ -1187,7 +1355,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0037460263043954858,
-    "st_length(shape)": 0.7304787647609162
+    "st_length(shape)": 0.7304787647609162,
+    "type": "ds_divisions",
+    "filename": "DS_MANMUNAI NORTH_85.geojson"
   },
   {
     "fid": 86,
@@ -1201,7 +1371,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.002085612684762499,
-    "st_length(shape)": 0.2555745456362253
+    "st_length(shape)": 0.2555745456362253,
+    "type": "ds_divisions",
+    "filename": "DS_MANMUNAI PATTU_86.geojson"
   },
   {
     "fid": 87,
@@ -1215,7 +1387,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0036471059788681505,
-    "st_length(shape)": 0.6289280462766339
+    "st_length(shape)": 0.6289280462766339,
+    "type": "ds_divisions",
+    "filename": "DS_MANMUNAI SOUTH & ERUVIL PATTU_87.geojson"
   },
   {
     "fid": 88,
@@ -1229,7 +1403,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.011891951324481743,
-    "st_length(shape)": 0.8912624301965055
+    "st_length(shape)": 0.8912624301965055,
+    "type": "ds_divisions",
+    "filename": "DS_MANMUNAI SOUTH WEST_88.geojson"
   },
   {
     "fid": 89,
@@ -1243,7 +1419,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.022993311989083134,
-    "st_length(shape)": 1.013717978055447
+    "st_length(shape)": 1.013717978055447,
+    "type": "ds_divisions",
+    "filename": "DS_MANMUNAI WEST_89.geojson"
   },
   {
     "fid": 90,
@@ -1257,7 +1435,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.013043267204901503,
-    "st_length(shape)": 0.7922601412605136
+    "st_length(shape)": 0.7922601412605136,
+    "type": "ds_divisions",
+    "filename": "DS_PORATIVU PATTU_90.geojson"
   },
   {
     "fid": 91,
@@ -1271,7 +1451,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.01187582178665443,
-    "st_length(shape)": 3.7447663678441088
+    "st_length(shape)": 3.7447663678441088,
+    "type": "ds_divisions",
+    "filename": "DS_WATER AREA_91.geojson"
   },
   {
     "fid": 92,
@@ -1285,7 +1467,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0017892003778907024,
-    "st_length(shape)": 0.46281609747213404
+    "st_length(shape)": 0.46281609747213404,
+    "type": "ds_divisions",
+    "filename": "DS_COLOMBO_92.geojson"
   },
   {
     "fid": 93,
@@ -1299,7 +1483,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0018269397276264574,
-    "st_length(shape)": 0.25246049751797567
+    "st_length(shape)": 0.25246049751797567,
+    "type": "ds_divisions",
+    "filename": "DS_THIMBIRIGASYAYA_93.geojson"
   },
   {
     "fid": 94,
@@ -1313,7 +1499,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.005815686072161861,
-    "st_length(shape)": 0.6106616420589893
+    "st_length(shape)": 0.6106616420589893,
+    "type": "ds_divisions",
+    "filename": "DS_AKMEEMANA_94.geojson"
   },
   {
     "fid": 95,
@@ -1327,7 +1515,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.004021383577372274,
-    "st_length(shape)": 0.4804718789916064
+    "st_length(shape)": 0.4804718789916064,
+    "type": "ds_divisions",
+    "filename": "DS_AMBALANGODA_95.geojson"
   },
   {
     "fid": 96,
@@ -1341,7 +1531,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.009220441620987122,
-    "st_length(shape)": 0.6570166949302778
+    "st_length(shape)": 0.6570166949302778,
+    "type": "ds_divisions",
+    "filename": "DS_BADDEGAMA_96.geojson"
   },
   {
     "fid": 97,
@@ -1355,7 +1547,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.004434718239814377,
-    "st_length(shape)": 0.4279792942461203
+    "st_length(shape)": 0.4279792942461203,
+    "type": "ds_divisions",
+    "filename": "DS_BALAPITIYA_97.geojson"
   },
   {
     "fid": 98,
@@ -1369,7 +1563,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.005797492548626448,
-    "st_length(shape)": 0.5591599055781591
+    "st_length(shape)": 0.5591599055781591,
+    "type": "ds_divisions",
+    "filename": "DS_BENTOTA_98.geojson"
   },
   {
     "fid": 99,
@@ -1383,7 +1579,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.002337203468640563,
-    "st_length(shape)": 0.2890393203010807
+    "st_length(shape)": 0.2890393203010807,
+    "type": "ds_divisions",
+    "filename": "DS_BOPE-PODDALA_99.geojson"
   },
   {
     "fid": 100,
@@ -1397,7 +1595,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.01231023426285428,
-    "st_length(shape)": 0.6502032921074804
+    "st_length(shape)": 0.6502032921074804,
+    "type": "ds_divisions",
+    "filename": "DS_ELPITIYA_100.geojson"
   },
   {
     "fid": 101,
@@ -1411,7 +1611,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.001821544016279476,
-    "st_length(shape)": 0.3509290804000617
+    "st_length(shape)": 0.3509290804000617,
+    "type": "ds_divisions",
+    "filename": "DS_GALLE4GRAVETS_101.geojson"
   },
   {
     "fid": 102,
@@ -1425,7 +1627,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0020744787587249694,
-    "st_length(shape)": 0.2829603716765476
+    "st_length(shape)": 0.2829603716765476,
+    "type": "ds_divisions",
+    "filename": "DS_GONAPINUWALA_102.geojson"
   },
   {
     "fid": 103,
@@ -1439,7 +1643,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.003986662600354121,
-    "st_length(shape)": 0.5723803026579799
+    "st_length(shape)": 0.5723803026579799,
+    "type": "ds_divisions",
+    "filename": "DS_HABARADUWA_103.geojson"
   },
   {
     "fid": 104,
@@ -1453,7 +1659,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0051608754288338015,
-    "st_length(shape)": 0.6432899811645572
+    "st_length(shape)": 0.6432899811645572,
+    "type": "ds_divisions",
+    "filename": "DS_HIKKADUWA_104.geojson"
   },
   {
     "fid": 105,
@@ -1467,7 +1675,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.004766507511490075,
-    "st_length(shape)": 0.4539429404449784
+    "st_length(shape)": 0.4539429404449784,
+    "type": "ds_divisions",
+    "filename": "DS_IMADUWA_105.geojson"
   },
   {
     "fid": 106,
@@ -1481,7 +1691,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.007236426380192352,
-    "st_length(shape)": 0.5377549912076709
+    "st_length(shape)": 0.5377549912076709,
+    "type": "ds_divisions",
+    "filename": "DS_KARANDENIYA_106.geojson"
   },
   {
     "fid": 107,
@@ -1495,7 +1707,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.014169918037002648,
-    "st_length(shape)": 0.6979491410308131
+    "st_length(shape)": 0.6979491410308131,
+    "type": "ds_divisions",
+    "filename": "DS_NAGODA_107.geojson"
   },
   {
     "fid": 108,
@@ -1509,7 +1723,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.012464443415368853,
-    "st_length(shape)": 0.6264582353992727
+    "st_length(shape)": 0.6264582353992727,
+    "type": "ds_divisions",
+    "filename": "DS_NELUWA_108.geojson"
   },
   {
     "fid": 109,
@@ -1523,7 +1739,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.008529156025971084,
-    "st_length(shape)": 0.6094143098003543
+    "st_length(shape)": 0.6094143098003543,
+    "type": "ds_divisions",
+    "filename": "DS_NIYAGAMA_109.geojson"
   },
   {
     "fid": 110,
@@ -1537,7 +1755,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.014194646300353352,
-    "st_length(shape)": 0.6301812432885658
+    "st_length(shape)": 0.6301812432885658,
+    "type": "ds_divisions",
+    "filename": "DS_THAWALAMA_110.geojson"
   },
   {
     "fid": 111,
@@ -1551,7 +1771,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.004614314144304499,
-    "st_length(shape)": 0.49711373715986923
+    "st_length(shape)": 0.49711373715986923,
+    "type": "ds_divisions",
+    "filename": "DS_WELIVITIYA-DIVITURA_111.geojson"
   },
   {
     "fid": 112,
@@ -1565,7 +1787,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.008878311345161845,
-    "st_length(shape)": 0.5709582675423619
+    "st_length(shape)": 0.5709582675423619,
+    "type": "ds_divisions",
+    "filename": "DS_YAKKALAMULLA_112.geojson"
   },
   {
     "fid": 113,
@@ -1579,7 +1803,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.012673631356492365,
-    "st_length(shape)": 0.8877055004019109
+    "st_length(shape)": 0.8877055004019109,
+    "type": "ds_divisions",
+    "filename": "DS_ATTANAGALLA_113.geojson"
   },
   {
     "fid": 114,
@@ -1593,7 +1819,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.004992083779262057,
-    "st_length(shape)": 0.4198565985261514
+    "st_length(shape)": 0.4198565985261514,
+    "type": "ds_divisions",
+    "filename": "DS_BIYAGAMA_114.geojson"
   },
   {
     "fid": 115,
@@ -1607,7 +1835,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.016634540829356493,
-    "st_length(shape)": 0.9003175806556007
+    "st_length(shape)": 0.9003175806556007,
+    "type": "ds_divisions",
+    "filename": "DS_DIVULAPITIYA_115.geojson"
   },
   {
     "fid": 116,
@@ -1621,7 +1851,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.01466326042608692,
-    "st_length(shape)": 0.7660852945334978
+    "st_length(shape)": 0.7660852945334978,
+    "type": "ds_divisions",
+    "filename": "DS_DOMPE_116.geojson"
   },
   {
     "fid": 117,
@@ -1635,7 +1867,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0075151492632653995,
-    "st_length(shape)": 0.718797220428571
+    "st_length(shape)": 0.718797220428571,
+    "type": "ds_divisions",
+    "filename": "DS_GAMPAHA_117.geojson"
   },
   {
     "fid": 118,
@@ -1649,7 +1883,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.005111361824301281,
-    "st_length(shape)": 0.47097355131495017
+    "st_length(shape)": 0.47097355131495017,
+    "type": "ds_divisions",
+    "filename": "DS_JA ELA_118.geojson"
   },
   {
     "fid": 119,
@@ -1663,7 +1899,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.00882535120124467,
-    "st_length(shape)": 0.7811289488294838
+    "st_length(shape)": 0.7811289488294838,
+    "type": "ds_divisions",
+    "filename": "DS_KATANA_119.geojson"
   },
   {
     "fid": 120,
@@ -1677,7 +1915,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0006920135587869902,
-    "st_length(shape)": 0.13904832075099335
+    "st_length(shape)": 0.13904832075099335,
+    "type": "ds_divisions",
+    "filename": "DS_DEHIWALA_120.geojson"
   },
   {
     "fid": 121,
@@ -1691,7 +1931,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.009842668621467219,
-    "st_length(shape)": 0.668982830436236
+    "st_length(shape)": 0.668982830436236,
+    "type": "ds_divisions",
+    "filename": "DS_HOMAGAMA_121.geojson"
   },
   {
     "fid": 122,
@@ -1705,7 +1947,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.007096746447296791,
-    "st_length(shape)": 0.5543851015103884
+    "st_length(shape)": 0.5543851015103884,
+    "type": "ds_divisions",
+    "filename": "DS_KADUWELA_122.geojson"
   },
   {
     "fid": 123,
@@ -1719,7 +1963,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.005023291513942239,
-    "st_length(shape)": 0.4535111655015973
+    "st_length(shape)": 0.4535111655015973,
+    "type": "ds_divisions",
+    "filename": "DS_KESBEWA_123.geojson"
   },
   {
     "fid": 124,
@@ -1733,7 +1979,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0021215249221026656,
-    "st_length(shape)": 0.3018527240936472
+    "st_length(shape)": 0.3018527240936472,
+    "type": "ds_divisions",
+    "filename": "DS_KOLONNAWA_124.geojson"
   },
   {
     "fid": 125,
@@ -1747,7 +1995,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0030921715633959184,
-    "st_length(shape)": 0.4234687255894174
+    "st_length(shape)": 0.4234687255894174,
+    "type": "ds_divisions",
+    "filename": "DS_MAHARAGAMA_125.geojson"
   },
   {
     "fid": 126,
@@ -1761,7 +2011,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.001579008777010685,
-    "st_length(shape)": 0.27645103591015247
+    "st_length(shape)": 0.27645103591015247,
+    "type": "ds_divisions",
+    "filename": "DS_MORATUWA_126.geojson"
   },
   {
     "fid": 127,
@@ -1775,7 +2027,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.00868743179195334,
-    "st_length(shape)": 0.6368582346647457
+    "st_length(shape)": 0.6368582346647457,
+    "type": "ds_divisions",
+    "filename": "DS_PADUKKA_127.geojson"
   },
   {
     "fid": 128,
@@ -1789,7 +2043,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0010522251712780702,
-    "st_length(shape)": 0.14724755427993952
+    "st_length(shape)": 0.14724755427993952,
+    "type": "ds_divisions",
+    "filename": "DS_RATMALANA_128.geojson"
   },
   {
     "fid": 129,
@@ -1803,7 +2059,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.011944072047665458,
-    "st_length(shape)": 0.6090485397491386
+    "st_length(shape)": 0.6090485397491386,
+    "type": "ds_divisions",
+    "filename": "DS_SEETHAWAKA_129.geojson"
   },
   {
     "fid": 130,
@@ -1817,7 +2075,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0013348940544070434,
-    "st_length(shape)": 0.24492530850359268
+    "st_length(shape)": 0.24492530850359268,
+    "type": "ds_divisions",
+    "filename": "DS_SRI JAYAWARDANAPURA KOTTE_130.geojson"
   },
   {
     "fid": 131,
@@ -1831,7 +2091,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0026750208393452658,
-    "st_length(shape)": 0.5111329920707555
+    "st_length(shape)": 0.5111329920707555,
+    "type": "ds_divisions",
+    "filename": "DS_ISLANDS NORTH(KAYTS)_131.geojson"
   },
   {
     "fid": 132,
@@ -1845,7 +2107,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.007473660617862348,
-    "st_length(shape)": 1.6320321146232204
+    "st_length(shape)": 1.6320321146232204,
+    "type": "ds_divisions",
+    "filename": "DS_ISLANDS SOUTH(VELANAI)_132.geojson"
   },
   {
     "fid": 133,
@@ -1859,7 +2123,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0009041314595149972,
-    "st_length(shape)": 0.24850491612911155
+    "st_length(shape)": 0.24850491612911155,
+    "type": "ds_divisions",
+    "filename": "DS_JAFFNA_133.geojson"
   },
   {
     "fid": 134,
@@ -1873,7 +2139,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.001947667517099128,
-    "st_length(shape)": 0.25949710369876877
+    "st_length(shape)": 0.25949710369876877,
+    "type": "ds_divisions",
+    "filename": "DS_KARAINAGAR_134.geojson"
   },
   {
     "fid": 135,
@@ -1887,7 +2155,9 @@
     "adjusted_area": null,
     "description": "DSD Boundary Problems",
     "st_area(shape)": 0.002744539401284701,
-    "st_length(shape)": 0.5673460446772863
+    "st_length(shape)": 0.5673460446772863,
+    "type": "ds_divisions",
+    "filename": "DS_NALLUR_135.geojson"
   },
   {
     "fid": 136,
@@ -1901,7 +2171,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.019448395097998884,
-    "st_length(shape)": 1.4927628579865986
+    "st_length(shape)": 1.4927628579865986,
+    "type": "ds_divisions",
+    "filename": "DS_THENMARADCHI(CHAVAKACHCHERI)_136.geojson"
   },
   {
     "fid": 137,
@@ -1915,7 +2187,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.01557997942241619,
-    "st_length(shape)": 1.0661954963308549
+    "st_length(shape)": 1.0661954963308549,
+    "type": "ds_divisions",
+    "filename": "DS_VADAMARADCHCHI EAST_137.geojson"
   },
   {
     "fid": 138,
@@ -1929,7 +2203,9 @@
     "adjusted_area": null,
     "description": "DSD Boundary Problems",
     "st_area(shape)": 0.007133250327523841,
-    "st_length(shape)": 0.4460129875522151
+    "st_length(shape)": 0.4460129875522151,
+    "type": "ds_divisions",
+    "filename": "DS_VADAMARADCHCHI SOUTH-WEST(KARAVEDDY)_138.geojson"
   },
   {
     "fid": 139,
@@ -1943,7 +2219,9 @@
     "adjusted_area": null,
     "description": "DSD Boundary Problems",
     "st_area(shape)": 0.0032225038216417813,
-    "st_length(shape)": 0.4481244800274271
+    "st_length(shape)": 0.4481244800274271,
+    "type": "ds_divisions",
+    "filename": "DS_VADAMARADCHI NORTH(POINT PEDRO)_139.geojson"
   },
   {
     "fid": 140,
@@ -1957,7 +2235,9 @@
     "adjusted_area": null,
     "description": "DSD Boundary Problems",
     "st_area(shape)": 0.008991533132734911,
-    "st_length(shape)": 0.5831982106753499
+    "st_length(shape)": 0.5831982106753499,
+    "type": "ds_divisions",
+    "filename": "DS_VALIKAMAM EAST(KOPAY)_140.geojson"
   },
   {
     "fid": 141,
@@ -1971,7 +2251,9 @@
     "adjusted_area": null,
     "description": "DSD Boundary Problems",
     "st_area(shape)": 0.005067691660900225,
-    "st_length(shape)": 0.47139227107973647
+    "st_length(shape)": 0.47139227107973647,
+    "type": "ds_divisions",
+    "filename": "DS_VALIKAMAM NORTH(THLLIPPALAI)_141.geojson"
   },
   {
     "fid": 142,
@@ -1985,7 +2267,9 @@
     "adjusted_area": null,
     "description": "DSD Boundary Problems",
     "st_area(shape)": 0.003958208279336375,
-    "st_length(shape)": 0.5308982471745213
+    "st_length(shape)": 0.5308982471745213,
+    "type": "ds_divisions",
+    "filename": "DS_VALIKAMAM SOUTH WEST(SANDILIPAY)_142.geojson"
   },
   {
     "fid": 143,
@@ -1999,7 +2283,9 @@
     "adjusted_area": null,
     "description": "DSD Boundary Problems",
     "st_area(shape)": 0.0027650809321720276,
-    "st_length(shape)": 0.36714570452068745
+    "st_length(shape)": 0.36714570452068745,
+    "type": "ds_divisions",
+    "filename": "DS_VALIKAMAM SOUTH(UDUVIL)_143.geojson"
   },
   {
     "fid": 144,
@@ -2013,7 +2299,9 @@
     "adjusted_area": null,
     "description": "DSD Boundary Problems",
     "st_area(shape)": 0.004001281085497083,
-    "st_length(shape)": 0.4981351403172554
+    "st_length(shape)": 0.4981351403172554,
+    "type": "ds_divisions",
+    "filename": "DS_VALIKAMAM WEST(CHANKANAI)_144.geojson"
   },
   {
     "fid": 145,
@@ -2027,7 +2315,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.007540978453107512,
-    "st_length(shape)": 0.636071415149222
+    "st_length(shape)": 0.636071415149222,
+    "type": "ds_divisions",
+    "filename": "DS_AGALAWATTA_145.geojson"
   },
   {
     "fid": 146,
@@ -2041,7 +2331,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0046681024898767385,
-    "st_length(shape)": 0.44415928265431603
+    "st_length(shape)": 0.44415928265431603,
+    "type": "ds_divisions",
+    "filename": "DS_BANDARAGAMA_146.geojson"
   },
   {
     "fid": 147,
@@ -2055,7 +2347,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.006010031477646637,
-    "st_length(shape)": 0.5234030103493028
+    "st_length(shape)": 0.5234030103493028,
+    "type": "ds_divisions",
+    "filename": "DS_BERUWALA_147.geojson"
   },
   {
     "fid": 148,
@@ -2069,7 +2363,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.017257530234241918,
-    "st_length(shape)": 0.7378027657279538
+    "st_length(shape)": 0.7378027657279538,
+    "type": "ds_divisions",
+    "filename": "DS_BULATHSINHALA_148.geojson"
   },
   {
     "fid": 149,
@@ -2083,7 +2379,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.008981804111076037,
-    "st_length(shape)": 0.8115795900229187
+    "st_length(shape)": 0.8115795900229187,
+    "type": "ds_divisions",
+    "filename": "DS_DODANGODA_149.geojson"
   },
   {
     "fid": 150,
@@ -2097,7 +2395,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.009108537088658039,
-    "st_length(shape)": 0.5734291181022051
+    "st_length(shape)": 0.5734291181022051,
+    "type": "ds_divisions",
+    "filename": "DS_HORANA_150.geojson"
   },
   {
     "fid": 151,
@@ -2111,7 +2411,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.007745544282226654,
-    "st_length(shape)": 0.4320489468915723
+    "st_length(shape)": 0.4320489468915723,
+    "type": "ds_divisions",
+    "filename": "DS_INGIRIYA_151.geojson"
   },
   {
     "fid": 152,
@@ -2125,7 +2427,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.00617911315702651,
-    "st_length(shape)": 0.5297559490075638
+    "st_length(shape)": 0.5297559490075638,
+    "type": "ds_divisions",
+    "filename": "DS_KALUTARA_152.geojson"
   },
   {
     "fid": 153,
@@ -2139,7 +2443,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.005085939622536087,
-    "st_length(shape)": 0.5725259267121443
+    "st_length(shape)": 0.5725259267121443,
+    "type": "ds_divisions",
+    "filename": "DS_MADURAWALA_153.geojson"
   },
   {
     "fid": 154,
@@ -2153,7 +2459,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.011353640394164304,
-    "st_length(shape)": 0.7544668720388572
+    "st_length(shape)": 0.7544668720388572,
+    "type": "ds_divisions",
+    "filename": "DS_MATUGAMA_154.geojson"
   },
   {
     "fid": 155,
@@ -2167,7 +2475,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0064945845035935855,
-    "st_length(shape)": 0.4908236506417634
+    "st_length(shape)": 0.4908236506417634,
+    "type": "ds_divisions",
+    "filename": "DS_MILLANIYA_155.geojson"
   },
   {
     "fid": 156,
@@ -2181,7 +2491,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.023227533343351633,
-    "st_length(shape)": 0.860801567834923
+    "st_length(shape)": 0.860801567834923,
+    "type": "ds_divisions",
+    "filename": "DS_PALINDANUWARA_156.geojson"
   },
   {
     "fid": 157,
@@ -2195,7 +2507,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.003713117029817697,
-    "st_length(shape)": 0.4492184998476373
+    "st_length(shape)": 0.4492184998476373,
+    "type": "ds_divisions",
+    "filename": "DS_PANADURA_157.geojson"
   },
   {
     "fid": 158,
@@ -2209,7 +2523,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.01729964314692679,
-    "st_length(shape)": 0.8028658634231327
+    "st_length(shape)": 0.8028658634231327,
+    "type": "ds_divisions",
+    "filename": "DS_WALALLAWITA_158.geojson"
   },
   {
     "fid": 159,
@@ -2223,7 +2539,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0024492941317627685,
-    "st_length(shape)": 0.31153280622420415
+    "st_length(shape)": 0.31153280622420415,
+    "type": "ds_divisions",
+    "filename": "DS_AKURANA_159.geojson"
   },
   {
     "fid": 160,
@@ -2237,7 +2555,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.004051856871206614,
-    "st_length(shape)": 0.43115854704861095
+    "st_length(shape)": 0.43115854704861095,
+    "type": "ds_divisions",
+    "filename": "DS_DELTOTA_160.geojson"
   },
   {
     "fid": 161,
@@ -2251,7 +2571,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.007656200242004643,
-    "st_length(shape)": 0.5007910576508473
+    "st_length(shape)": 0.5007910576508473,
+    "type": "ds_divisions",
+    "filename": "DS_DOLUWA_161.geojson"
   },
   {
     "fid": 162,
@@ -2265,7 +2587,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.007872212845081952,
-    "st_length(shape)": 0.5843488295124647
+    "st_length(shape)": 0.5843488295124647,
+    "type": "ds_divisions",
+    "filename": "DS_GANGA IHALA KORALE_162.geojson"
   },
   {
     "fid": 163,
@@ -2279,7 +2603,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.004880766042978637,
-    "st_length(shape)": 0.544467620368478
+    "st_length(shape)": 0.544467620368478,
+    "type": "ds_divisions",
+    "filename": "DS_GANGAWATA KORALE_163.geojson"
   },
   {
     "fid": 164,
@@ -2293,7 +2619,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.004053622526653945,
-    "st_length(shape)": 0.4002463072339936
+    "st_length(shape)": 0.4002463072339936,
+    "type": "ds_divisions",
+    "filename": "DS_HARISPATTUWA_164.geojson"
   },
   {
     "fid": 165,
@@ -2307,7 +2635,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0052403050187509416,
-    "st_length(shape)": 0.449065361060999
+    "st_length(shape)": 0.449065361060999,
+    "type": "ds_divisions",
+    "filename": "DS_HATHARALIYADDA_165.geojson"
   },
   {
     "fid": 166,
@@ -2321,7 +2651,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.006648677008589531,
-    "st_length(shape)": 0.5378912753103577
+    "st_length(shape)": 0.5378912753103577,
+    "type": "ds_divisions",
+    "filename": "DS_KUNDASALE_166.geojson"
   },
   {
     "fid": 167,
@@ -2335,7 +2667,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.015461237109992176,
-    "st_length(shape)": 0.6073542398030309
+    "st_length(shape)": 0.6073542398030309,
+    "type": "ds_divisions",
+    "filename": "DS_MEDADUMBARA_167.geojson"
   },
   {
     "fid": 168,
@@ -2349,7 +2683,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.020417192017811846,
-    "st_length(shape)": 0.925344137429219
+    "st_length(shape)": 0.925344137429219,
+    "type": "ds_divisions",
+    "filename": "DS_MINIPE_168.geojson"
   },
   {
     "fid": 169,
@@ -2363,7 +2699,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.007586766398703342,
-    "st_length(shape)": 0.4701485253489276
+    "st_length(shape)": 0.4701485253489276,
+    "type": "ds_divisions",
+    "filename": "DS_PANVILA_169.geojson"
   },
   {
     "fid": 170,
@@ -2377,7 +2715,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.009948917762568782,
-    "st_length(shape)": 0.591449038594323
+    "st_length(shape)": 0.591449038594323,
+    "type": "ds_divisions",
+    "filename": "DS_PASBAGEKORALE_170.geojson"
   },
   {
     "fid": 171,
@@ -2391,7 +2731,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.004013096980195813,
-    "st_length(shape)": 0.44622005928907044
+    "st_length(shape)": 0.44622005928907044,
+    "type": "ds_divisions",
+    "filename": "DS_PATHADUMBARA_171.geojson"
   },
   {
     "fid": 172,
@@ -2405,7 +2747,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.006864291423366513,
-    "st_length(shape)": 0.4953618946361031
+    "st_length(shape)": 0.4953618946361031,
+    "type": "ds_divisions",
+    "filename": "DS_PATHAHEWAHETA_172.geojson"
   },
   {
     "fid": 173,
@@ -2419,7 +2763,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.004799951134758865,
-    "st_length(shape)": 0.49313526715324435
+    "st_length(shape)": 0.49313526715324435,
+    "type": "ds_divisions",
+    "filename": "DS_POOJAPITIYA_173.geojson"
   },
   {
     "fid": 174,
@@ -2433,7 +2779,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0041706952083812735,
-    "st_length(shape)": 0.4164544175275801
+    "st_length(shape)": 0.4164544175275801,
+    "type": "ds_divisions",
+    "filename": "DS_TUMPANE_174.geojson"
   },
   {
     "fid": 175,
@@ -2447,7 +2795,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.007704048150413444,
-    "st_length(shape)": 0.8235972124683468
+    "st_length(shape)": 0.8235972124683468,
+    "type": "ds_divisions",
+    "filename": "DS_UDAPALATHA_175.geojson"
   },
   {
     "fid": 176,
@@ -2461,7 +2811,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.014724173248250053,
-    "st_length(shape)": 0.9623956065892936
+    "st_length(shape)": 0.9623956065892936,
+    "type": "ds_divisions",
+    "filename": "DS_YATIYANTOTA_176.geojson"
   },
   {
     "fid": 177,
@@ -2475,7 +2827,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.02258271968105307,
-    "st_length(shape)": 1.1684479613869538
+    "st_length(shape)": 1.1684479613869538,
+    "type": "ds_divisions",
+    "filename": "DS_KANDAVALAI_177.geojson"
   },
   {
     "fid": 178,
@@ -2489,7 +2843,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.03255821540492464,
-    "st_length(shape)": 1.6813265468140086
+    "st_length(shape)": 1.6813265468140086,
+    "type": "ds_divisions",
+    "filename": "DS_KARACHCHI_178.geojson"
   },
   {
     "fid": 179,
@@ -2503,7 +2859,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.014497727322447081,
-    "st_length(shape)": 0.7099746734746746
+    "st_length(shape)": 0.7099746734746746,
+    "type": "ds_divisions",
+    "filename": "DS_PACHCHILAIPALLI_179.geojson"
   },
   {
     "fid": 180,
@@ -2517,7 +2875,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.03895972831380492,
-    "st_length(shape)": 2.969723299925312
+    "st_length(shape)": 2.969723299925312,
+    "type": "ds_divisions",
+    "filename": "DS_POONAKARY_180.geojson"
   },
   {
     "fid": 181,
@@ -2531,7 +2891,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.010666685074265098,
-    "st_length(shape)": 0.510883726462106
+    "st_length(shape)": 0.510883726462106,
+    "type": "ds_divisions",
+    "filename": "DS_ALAWWA_181.geojson"
   },
   {
     "fid": 182,
@@ -2545,7 +2907,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.011507313297906527,
-    "st_length(shape)": 0.5809971864037722
+    "st_length(shape)": 0.5809971864037722,
+    "type": "ds_divisions",
+    "filename": "DS_AMBANPOLA_182.geojson"
   },
   {
     "fid": 183,
@@ -2559,7 +2923,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.009056416434077447,
-    "st_length(shape)": 0.5112847589009639
+    "st_length(shape)": 0.5112847589009639,
+    "type": "ds_divisions",
+    "filename": "DS_BAMUNAKOTUWA_183.geojson"
   },
   {
     "fid": 184,
@@ -2573,7 +2939,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.015865575369405385,
-    "st_length(shape)": 0.858691455701908
+    "st_length(shape)": 0.858691455701908,
+    "type": "ds_divisions",
+    "filename": "DS_BINGIRIYA_184.geojson"
   },
   {
     "fid": 185,
@@ -2587,7 +2955,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.014066359085978619,
-    "st_length(shape)": 0.8733556577151859
+    "st_length(shape)": 0.8733556577151859,
+    "type": "ds_divisions",
+    "filename": "DS_EHETUWEWA_185.geojson"
   },
   {
     "fid": 186,
@@ -2601,7 +2971,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.02240850064467534,
-    "st_length(shape)": 1.0762898401035639
+    "st_length(shape)": 1.0762898401035639,
+    "type": "ds_divisions",
+    "filename": "DS_GALGAMUWA_186.geojson"
   },
   {
     "fid": 187,
@@ -2615,7 +2987,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.012314211357153547,
-    "st_length(shape)": 0.7318066553698216
+    "st_length(shape)": 0.7318066553698216,
+    "type": "ds_divisions",
+    "filename": "DS_GANEWATTA_187.geojson"
   },
   {
     "fid": 188,
@@ -2629,7 +3003,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.016848302790402756,
-    "st_length(shape)": 0.64468831516925
+    "st_length(shape)": 0.64468831516925,
+    "type": "ds_divisions",
+    "filename": "DS_GIRIBAWA_188.geojson"
   },
   {
     "fid": 189,
@@ -2643,7 +3019,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.01779561068094856,
-    "st_length(shape)": 0.8969580272512883
+    "st_length(shape)": 0.8969580272512883,
+    "type": "ds_divisions",
+    "filename": "DS_IBBAGAMUWA_189.geojson"
   },
   {
     "fid": 190,
@@ -2657,7 +3035,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.010677569224177327,
-    "st_length(shape)": 0.6512395581574716
+    "st_length(shape)": 0.6512395581574716,
+    "type": "ds_divisions",
+    "filename": "DS_KOBEIGANE_190.geojson"
   },
   {
     "fid": 191,
@@ -2671,7 +3051,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.015542465786645716,
-    "st_length(shape)": 0.823889209905324
+    "st_length(shape)": 0.823889209905324,
+    "type": "ds_divisions",
+    "filename": "DS_KOTAWEHERA_191.geojson"
   },
   {
     "fid": 192,
@@ -2685,7 +3067,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.009320506691785987,
-    "st_length(shape)": 0.6491044207544149
+    "st_length(shape)": 0.6491044207544149,
+    "type": "ds_divisions",
+    "filename": "DS_KULIYAPITIYA EAST_192.geojson"
   },
   {
     "fid": 193,
@@ -2699,7 +3083,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.013556571628378991,
-    "st_length(shape)": 0.7999793163216417
+    "st_length(shape)": 0.7999793163216417,
+    "type": "ds_divisions",
+    "filename": "DS_KULIYAPITIYA WEST_193.geojson"
   },
   {
     "fid": 194,
@@ -2713,7 +3099,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.008004621557413872,
-    "st_length(shape)": 0.956160114416827
+    "st_length(shape)": 0.956160114416827,
+    "type": "ds_divisions",
+    "filename": "DS_KURUNEGALA_194.geojson"
   },
   {
     "fid": 195,
@@ -2727,7 +3115,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.02142930100595706,
-    "st_length(shape)": 0.8955547870158297
+    "st_length(shape)": 0.8955547870158297,
+    "type": "ds_divisions",
+    "filename": "DS_MAHO_195.geojson"
   },
   {
     "fid": 196,
@@ -2741,7 +3131,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.006492190651516527,
-    "st_length(shape)": 0.6609985772713645
+    "st_length(shape)": 0.6609985772713645,
+    "type": "ds_divisions",
+    "filename": "DS_MALLAWAPITIYA_196.geojson"
   },
   {
     "fid": 197,
@@ -2755,7 +3147,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.005436937023504047,
-    "st_length(shape)": 0.5154075546339344
+    "st_length(shape)": 0.5154075546339344,
+    "type": "ds_divisions",
+    "filename": "DS_MASPOTHA_197.geojson"
   },
   {
     "fid": 198,
@@ -2769,7 +3163,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.008881640378096738,
-    "st_length(shape)": 0.7131507271038534
+    "st_length(shape)": 0.7131507271038534,
+    "type": "ds_divisions",
+    "filename": "DS_MAWATHAGAMA_198.geojson"
   },
   {
     "fid": 199,
@@ -2783,7 +3179,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.008889327457643406,
-    "st_length(shape)": 0.64923094484282
+    "st_length(shape)": 0.64923094484282,
+    "type": "ds_divisions",
+    "filename": "DS_NARAMMALA_199.geojson"
   },
   {
     "fid": 200,
@@ -2797,7 +3195,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.012403841598198212,
-    "st_length(shape)": 0.7420980657656365
+    "st_length(shape)": 0.7420980657656365,
+    "type": "ds_divisions",
+    "filename": "DS_NIKAWERATIYA_200.geojson"
   },
   {
     "fid": 201,
@@ -2811,7 +3211,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.008398243466150854,
-    "st_length(shape)": 0.5668443360547921
+    "st_length(shape)": 0.5668443360547921,
+    "type": "ds_divisions",
+    "filename": "DS_PANDUWASNUWARA EAST_201.geojson"
   },
   {
     "fid": 202,
@@ -2825,7 +3227,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.01482906286960035,
-    "st_length(shape)": 0.9017034693668382
+    "st_length(shape)": 0.9017034693668382,
+    "type": "ds_divisions",
+    "filename": "DS_PANDUWASNUWARA WEST_202.geojson"
   },
   {
     "fid": 203,
@@ -2839,7 +3243,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.02311368498941979,
-    "st_length(shape)": 0.9588356730602056
+    "st_length(shape)": 0.9588356730602056,
+    "type": "ds_divisions",
+    "filename": "DS_PANNALA_203.geojson"
   },
   {
     "fid": 204,
@@ -2853,7 +3259,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.007909086088537453,
-    "st_length(shape)": 0.471757816203359
+    "st_length(shape)": 0.471757816203359,
+    "type": "ds_divisions",
+    "filename": "DS_POLGAHAWELA_204.geojson"
   },
   {
     "fid": 205,
@@ -2867,7 +3275,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.03407398415615902,
-    "st_length(shape)": 1.0848062692992768
+    "st_length(shape)": 1.0848062692992768,
+    "type": "ds_divisions",
+    "filename": "DS_POLPITIGAMA_205.geojson"
   },
   {
     "fid": 206,
@@ -2881,7 +3291,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0102109367091929,
-    "st_length(shape)": 0.6718897507530256
+    "st_length(shape)": 0.6718897507530256,
+    "type": "ds_divisions",
+    "filename": "DS_RASNAYAKAPURA_206.geojson"
   },
   {
     "fid": 207,
@@ -2895,7 +3307,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.01844598002413086,
-    "st_length(shape)": 0.8709704325895229
+    "st_length(shape)": 0.8709704325895229,
+    "type": "ds_divisions",
+    "filename": "DS_RIDEEGAMA_207.geojson"
   },
   {
     "fid": 208,
@@ -2909,7 +3323,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.009822579212789244,
-    "st_length(shape)": 0.5700791992974164
+    "st_length(shape)": 0.5700791992974164,
+    "type": "ds_divisions",
+    "filename": "DS_UDUBADDAWA_208.geojson"
   },
   {
     "fid": 209,
@@ -2923,7 +3339,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.01655392198562234,
-    "st_length(shape)": 0.8615402641563819
+    "st_length(shape)": 0.8615402641563819,
+    "type": "ds_divisions",
+    "filename": "DS_WARIYAPOLA_209.geojson"
   },
   {
     "fid": 210,
@@ -2937,7 +3355,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.007522390875845982,
-    "st_length(shape)": 0.5353307333400265
+    "st_length(shape)": 0.5353307333400265,
+    "type": "ds_divisions",
+    "filename": "DS_WEERABUGEDARA_210.geojson"
   },
   {
     "fid": 211,
@@ -2951,7 +3371,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.04643949728279513,
-    "st_length(shape)": 1.2848709721576852
+    "st_length(shape)": 1.2848709721576852,
+    "type": "ds_divisions",
+    "filename": "DS_MADHU_211.geojson"
   },
   {
     "fid": 212,
@@ -2965,7 +3387,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.018104459492533316,
-    "st_length(shape)": 1.7775046467823596
+    "st_length(shape)": 1.7775046467823596,
+    "type": "ds_divisions",
+    "filename": "DS_MANNAR TOWN_212.geojson"
   },
   {
     "fid": 213,
@@ -2979,7 +3403,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.050571421307592006,
-    "st_length(shape)": 1.3681271868143503
+    "st_length(shape)": 1.3681271868143503,
+    "type": "ds_divisions",
+    "filename": "DS_MANTHAI WEST_213.geojson"
   },
   {
     "fid": 214,
@@ -2993,7 +3419,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0380601284015299,
-    "st_length(shape)": 1.0761636758271078
+    "st_length(shape)": 1.0761636758271078,
+    "type": "ds_divisions",
+    "filename": "DS_MUSALI_214.geojson"
   },
   {
     "fid": 215,
@@ -3007,7 +3435,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.012114745581753883,
-    "st_length(shape)": 1.3308435343982357
+    "st_length(shape)": 1.3308435343982357,
+    "type": "ds_divisions",
+    "filename": "DS_NANADDAN_215.geojson"
   },
   {
     "fid": 216,
@@ -3021,7 +3451,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.004537722177953925,
-    "st_length(shape)": 0.3948025499324367
+    "st_length(shape)": 0.3948025499324367,
+    "type": "ds_divisions",
+    "filename": "DS_AMBANGANGA_216.geojson"
   },
   {
     "fid": 217,
@@ -3035,7 +3467,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.03718911317674353,
-    "st_length(shape)": 1.0981140157828029
+    "st_length(shape)": 1.0981140157828029,
+    "type": "ds_divisions",
+    "filename": "DS_DAMBULLA_217.geojson"
   },
   {
     "fid": 218,
@@ -3049,7 +3483,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.01619434953477501,
-    "st_length(shape)": 0.7300828152640618
+    "st_length(shape)": 0.7300828152640618,
+    "type": "ds_divisions",
+    "filename": "DS_GALEWELA_218.geojson"
   },
   {
     "fid": 219,
@@ -3063,7 +3499,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.03030939877915272,
-    "st_length(shape)": 0.9043738910125884
+    "st_length(shape)": 0.9043738910125884,
+    "type": "ds_divisions",
+    "filename": "DS_LAGGALA_219.geojson"
   },
   {
     "fid": 220,
@@ -3077,7 +3515,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.00579758975191704,
-    "st_length(shape)": 0.6101973972731249
+    "st_length(shape)": 0.6101973972731249,
+    "type": "ds_divisions",
+    "filename": "DS_MATALE_220.geojson"
   },
   {
     "fid": 221,
@@ -3091,7 +3531,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.02353279533639127,
-    "st_length(shape)": 0.8771599693604971
+    "st_length(shape)": 0.8771599693604971,
+    "type": "ds_divisions",
+    "filename": "DS_NAULA_221.geojson"
   },
   {
     "fid": 222,
@@ -3105,7 +3547,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.00679358963697112,
-    "st_length(shape)": 0.5183305417316149
+    "st_length(shape)": 0.5183305417316149,
+    "type": "ds_divisions",
+    "filename": "DS_PALLEPOLA_222.geojson"
   },
   {
     "fid": 223,
@@ -3119,7 +3563,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.008512921739691176,
-    "st_length(shape)": 0.6071650479471716
+    "st_length(shape)": 0.6071650479471716,
+    "type": "ds_divisions",
+    "filename": "DS_RATTOTA_223.geojson"
   },
   {
     "fid": 224,
@@ -3133,7 +3579,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.006509523575152633,
-    "st_length(shape)": 0.6789176218232871
+    "st_length(shape)": 0.6789176218232871,
+    "type": "ds_divisions",
+    "filename": "DS_UKUWELA_224.geojson"
   },
   {
     "fid": 225,
@@ -3147,7 +3595,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.023831923385389406,
-    "st_length(shape)": 0.747224318789415
+    "st_length(shape)": 0.747224318789415,
+    "type": "ds_divisions",
+    "filename": "DS_WILGAMUWA_225.geojson"
   },
   {
     "fid": 226,
@@ -3161,7 +3611,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.005521398191510795,
-    "st_length(shape)": 0.47908300095575507
+    "st_length(shape)": 0.47908300095575507,
+    "type": "ds_divisions",
+    "filename": "DS_YATAWATTA_226.geojson"
   },
   {
     "fid": 227,
@@ -3175,7 +3627,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.012259431321582812,
-    "st_length(shape)": 0.7620811295136116
+    "st_length(shape)": 0.7620811295136116,
+    "type": "ds_divisions",
+    "filename": "DS_AKURESSA_227.geojson"
   },
   {
     "fid": 228,
@@ -3189,7 +3643,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.022729339409137423,
-    "st_length(shape)": 0.8624714506929636
+    "st_length(shape)": 0.8624714506929636,
+    "type": "ds_divisions",
+    "filename": "DS_UDUDUMBARA_228.geojson"
   },
   {
     "fid": 229,
@@ -3203,7 +3659,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.005635904645635199,
-    "st_length(shape)": 0.37050312108311984
+    "st_length(shape)": 0.37050312108311984,
+    "type": "ds_divisions",
+    "filename": "DS_UDUNUWARA_229.geojson"
   },
   {
     "fid": 230,
@@ -3217,7 +3675,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0056591971633113075,
-    "st_length(shape)": 0.4369006949109679
+    "st_length(shape)": 0.4369006949109679,
+    "type": "ds_divisions",
+    "filename": "DS_YATINUWARA_230.geojson"
   },
   {
     "fid": 231,
@@ -3231,7 +3691,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.009831409193787435,
-    "st_length(shape)": 0.7246561395491978
+    "st_length(shape)": 0.7246561395491978,
+    "type": "ds_divisions",
+    "filename": "DS_ARANAYAKE_231.geojson"
   },
   {
     "fid": 232,
@@ -3245,7 +3707,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.01025324292618694,
-    "st_length(shape)": 0.8514424636548015
+    "st_length(shape)": 0.8514424636548015,
+    "type": "ds_divisions",
+    "filename": "DS_BULATHKOHIPITIYA_232.geojson"
   },
   {
     "fid": 233,
@@ -3259,7 +3723,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.015869681000407886,
-    "st_length(shape)": 0.8816866192480819
+    "st_length(shape)": 0.8816866192480819,
+    "type": "ds_divisions",
+    "filename": "DS_DEHIOWITA_233.geojson"
   },
   {
     "fid": 234,
@@ -3273,7 +3739,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.018176721075799686,
-    "st_length(shape)": 0.7629448471210334
+    "st_length(shape)": 0.7629448471210334,
+    "type": "ds_divisions",
+    "filename": "DS_DERANIYAGALA_234.geojson"
   },
   {
     "fid": 235,
@@ -3287,7 +3755,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.010200446864085026,
-    "st_length(shape)": 0.7669499071595447
+    "st_length(shape)": 0.7669499071595447,
+    "type": "ds_divisions",
+    "filename": "DS_GALIGAMUWA_235.geojson"
   },
   {
     "fid": 236,
@@ -3301,7 +3771,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.008699093388114632,
-    "st_length(shape)": 0.7376813059087731
+    "st_length(shape)": 0.7376813059087731,
+    "type": "ds_divisions",
+    "filename": "DS_KEGALLE_236.geojson"
   },
   {
     "fid": 237,
@@ -3315,7 +3787,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.009832659737779968,
-    "st_length(shape)": 0.7546207867260626
+    "st_length(shape)": 0.7546207867260626,
+    "type": "ds_divisions",
+    "filename": "DS_MAWANELLA_237.geojson"
   },
   {
     "fid": 238,
@@ -3329,7 +3803,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.010465149879388711,
-    "st_length(shape)": 0.7463796523396649
+    "st_length(shape)": 0.7463796523396649,
+    "type": "ds_divisions",
+    "filename": "DS_RAMBUKKANA_238.geojson"
   },
   {
     "fid": 239,
@@ -3343,7 +3819,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.011510611811683008,
-    "st_length(shape)": 0.5971018046503938
+    "st_length(shape)": 0.5971018046503938,
+    "type": "ds_divisions",
+    "filename": "DS_RUWANWELLA_239.geojson"
   },
   {
     "fid": 240,
@@ -3357,7 +3835,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.01612693605536576,
-    "st_length(shape)": 0.8418903564827555
+    "st_length(shape)": 0.8418903564827555,
+    "type": "ds_divisions",
+    "filename": "DS_WARAKAPOLA_240.geojson"
   },
   {
     "fid": 241,
@@ -3371,7 +3851,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.005151030228787323,
-    "st_length(shape)": 0.4372494385550746
+    "st_length(shape)": 0.4372494385550746,
+    "type": "ds_divisions",
+    "filename": "DS_ATHURALIYA_241.geojson"
   },
   {
     "fid": 242,
@@ -3385,7 +3867,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0031164232303476057,
-    "st_length(shape)": 0.5818568218912158
+    "st_length(shape)": 0.5818568218912158,
+    "type": "ds_divisions",
+    "filename": "DS_DEVINUWARA_242.geojson"
   },
   {
     "fid": 243,
@@ -3399,7 +3883,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.004200622641034314,
-    "st_length(shape)": 0.43468930887285656
+    "st_length(shape)": 0.43468930887285656,
+    "type": "ds_divisions",
+    "filename": "DS_DIKWELLA_243.geojson"
   },
   {
     "fid": 244,
@@ -3413,7 +3899,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.05172772604345942,
-    "st_length(shape)": 1.6695526155921139
+    "st_length(shape)": 1.6695526155921139,
+    "type": "ds_divisions",
+    "filename": "DS_THANAMALWILA_244.geojson"
   },
   {
     "fid": 245,
@@ -3427,7 +3915,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.04701312095857304,
-    "st_length(shape)": 1.3697062193108682
+    "st_length(shape)": 1.3697062193108682,
+    "type": "ds_divisions",
+    "filename": "DS_WELLAWAYA_245.geojson"
   },
   {
     "fid": 246,
@@ -3441,7 +3931,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.03996046132884548,
-    "st_length(shape)": 1.0300977977028114
+    "st_length(shape)": 1.0300977977028114,
+    "type": "ds_divisions",
+    "filename": "DS_MANTHAI EAST_246.geojson"
   },
   {
     "fid": 247,
@@ -3455,7 +3947,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.05081888225989012,
-    "st_length(shape)": 1.6337375007884833
+    "st_length(shape)": 1.6337375007884833,
+    "type": "ds_divisions",
+    "filename": "DS_MARITIMEPATTU_247.geojson"
   },
   {
     "fid": 248,
@@ -3469,7 +3963,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.06273521254308657,
-    "st_length(shape)": 1.5957441927591505
+    "st_length(shape)": 1.5957441927591505,
+    "type": "ds_divisions",
+    "filename": "DS_ODDUSUDDAN_248.geojson"
   },
   {
     "fid": 249,
@@ -3483,7 +3979,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.026872569274495942,
-    "st_length(shape)": 0.9308049952447086
+    "st_length(shape)": 0.9308049952447086,
+    "type": "ds_divisions",
+    "filename": "DS_PUTHUKKUDIYIRUPPU_249.geojson"
   },
   {
     "fid": 250,
@@ -3497,7 +3995,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.027084944060250832,
-    "st_length(shape)": 0.776741704704145
+    "st_length(shape)": 0.776741704704145,
+    "type": "ds_divisions",
+    "filename": "DS_THUNUKKAI_250.geojson"
   },
   {
     "fid": 251,
@@ -3511,7 +4011,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.004053541614577664,
-    "st_length(shape)": 0.3541407977002657
+    "st_length(shape)": 0.3541407977002657,
+    "type": "ds_divisions",
+    "filename": "DS_HAKMANA_251.geojson"
   },
   {
     "fid": 252,
@@ -3525,7 +4027,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.004728543602807296,
-    "st_length(shape)": 0.46995915253498505
+    "st_length(shape)": 0.46995915253498505,
+    "type": "ds_divisions",
+    "filename": "DS_KABURUPITIYA_252.geojson"
   },
   {
     "fid": 253,
@@ -3539,7 +4043,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.013091502801733271,
-    "st_length(shape)": 0.6828548157231729
+    "st_length(shape)": 0.6828548157231729,
+    "type": "ds_divisions",
+    "filename": "DS_WELIOYA_253.geojson"
   },
   {
     "fid": 254,
@@ -3553,7 +4059,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.03982883883299866,
-    "st_length(shape)": 1.2601008652608372
+    "st_length(shape)": 1.2601008652608372,
+    "type": "ds_divisions",
+    "filename": "DS_AMBAGAMUWA_254.geojson"
   },
   {
     "fid": 255,
@@ -3567,7 +4075,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.018476448144897076,
-    "st_length(shape)": 0.8750739590619594
+    "st_length(shape)": 0.8750739590619594,
+    "type": "ds_divisions",
+    "filename": "DS_HANGURANKETA_255.geojson"
   },
   {
     "fid": 256,
@@ -3581,7 +4091,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.018561178118184328,
-    "st_length(shape)": 0.8193432504870006
+    "st_length(shape)": 0.8193432504870006,
+    "type": "ds_divisions",
+    "filename": "DS_KOTHMALE_256.geojson"
   },
   {
     "fid": 257,
@@ -3595,7 +4107,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0034194000655423003,
-    "st_length(shape)": 0.4134786869057597
+    "st_length(shape)": 0.4134786869057597,
+    "type": "ds_divisions",
+    "filename": "DS_KIRINDA PUHULWELLA_257.geojson"
   },
   {
     "fid": 258,
@@ -3609,7 +4123,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.014627256224421346,
-    "st_length(shape)": 0.7105676874485038
+    "st_length(shape)": 0.7105676874485038,
+    "type": "ds_divisions",
+    "filename": "DS_KOTAPOLA_258.geojson"
   },
   {
     "fid": 259,
@@ -3623,7 +4139,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.039484583910908144,
-    "st_length(shape)": 1.2754567925763562
+    "st_length(shape)": 1.2754567925763562,
+    "type": "ds_divisions",
+    "filename": "DS_NUWARA ELIYA_259.geojson"
   },
   {
     "fid": 260,
@@ -3637,7 +4155,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.026428093757657384,
-    "st_length(shape)": 0.8404587595747928
+    "st_length(shape)": 0.8404587595747928,
+    "type": "ds_divisions",
+    "filename": "DS_WALAPANE_260.geojson"
   },
   {
     "fid": 261,
@@ -3651,7 +4171,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.04802960447128499,
-    "st_length(shape)": 1.5390014164743073
+    "st_length(shape)": 1.5390014164743073,
+    "type": "ds_divisions",
+    "filename": "DS_DIMBULAGALA_261.geojson"
   },
   {
     "fid": 262,
@@ -3665,7 +4187,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.030074861397603247,
-    "st_length(shape)": 0.9752404606394506
+    "st_length(shape)": 0.9752404606394506,
+    "type": "ds_divisions",
+    "filename": "DS_ELAHERA_262.geojson"
   },
   {
     "fid": 263,
@@ -3679,7 +4203,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.058043766665019196,
-    "st_length(shape)": 1.6871163239768598
+    "st_length(shape)": 1.6871163239768598,
+    "type": "ds_divisions",
+    "filename": "DS_HIGURAKGODA_263.geojson"
   },
   {
     "fid": 264,
@@ -3693,7 +4219,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.01619817131963845,
-    "st_length(shape)": 0.9302293495985646
+    "st_length(shape)": 0.9302293495985646,
+    "type": "ds_divisions",
+    "filename": "DS_LANKAPURA_264.geojson"
   },
   {
     "fid": 265,
@@ -3707,7 +4235,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.04703855735469453,
-    "st_length(shape)": 1.3689072865409924
+    "st_length(shape)": 1.3689072865409924,
+    "type": "ds_divisions",
+    "filename": "DS_MEDIRIGIRIYA_265.geojson"
   },
   {
     "fid": 266,
@@ -3721,7 +4251,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.03832783750052921,
-    "st_length(shape)": 1.0954297742539858
+    "st_length(shape)": 1.0954297742539858,
+    "type": "ds_divisions",
+    "filename": "DS_THAMANKADUWA_266.geojson"
   },
   {
     "fid": 267,
@@ -3735,7 +4267,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0035008071586819585,
-    "st_length(shape)": 0.4255194851042052
+    "st_length(shape)": 0.4255194851042052,
+    "type": "ds_divisions",
+    "filename": "DS_MALIMBADA_267.geojson"
   },
   {
     "fid": 268,
@@ -3749,7 +4283,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.004625208306900391,
-    "st_length(shape)": 0.50478304625403
+    "st_length(shape)": 0.50478304625403,
+    "type": "ds_divisions",
+    "filename": "DS_MATARA FOUR GRAVETS_268.geojson"
   },
   {
     "fid": 269,
@@ -3763,7 +4299,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.009838487116575758,
-    "st_length(shape)": 0.540018920293015
+    "st_length(shape)": 0.540018920293015,
+    "type": "ds_divisions",
+    "filename": "DS_MULATIYANA_269.geojson"
   },
   {
     "fid": 270,
@@ -3777,7 +4315,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.012600856140928353,
-    "st_length(shape)": 0.6432508977240224
+    "st_length(shape)": 0.6432508977240224,
+    "type": "ds_divisions",
+    "filename": "DS_PASGODA_270.geojson"
   },
   {
     "fid": 271,
@@ -3791,7 +4331,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.011193487292073808,
-    "st_length(shape)": 0.7148204706561618
+    "st_length(shape)": 0.7148204706561618,
+    "type": "ds_divisions",
+    "filename": "DS_PITABADDARA_271.geojson"
   },
   {
     "fid": 272,
@@ -3805,7 +4347,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.004313292608323943,
-    "st_length(shape)": 0.4875507275128389
+    "st_length(shape)": 0.4875507275128389,
+    "type": "ds_divisions",
+    "filename": "DS_THIHAGODA_272.geojson"
   },
   {
     "fid": 273,
@@ -3819,7 +4363,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0034867049431471287,
-    "st_length(shape)": 0.5256141475868037
+    "st_length(shape)": 0.5256141475868037,
+    "type": "ds_divisions",
+    "filename": "DS_WELIGAMA_273.geojson"
   },
   {
     "fid": 274,
@@ -3833,7 +4379,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.005660691537649648,
-    "st_length(shape)": 0.5786126278759052
+    "st_length(shape)": 0.5786126278759052,
+    "type": "ds_divisions",
+    "filename": "DS_WELIPITIYA_274.geojson"
   },
   {
     "fid": 275,
@@ -3847,7 +4395,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.019396646214955487,
-    "st_length(shape)": 0.803892814705025
+    "st_length(shape)": 0.803892814705025,
+    "type": "ds_divisions",
+    "filename": "DS_BADALKUMBURA_275.geojson"
   },
   {
     "fid": 276,
@@ -3861,7 +4411,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.038154636706578315,
-    "st_length(shape)": 1.362584801029934
+    "st_length(shape)": 1.362584801029934,
+    "type": "ds_divisions",
+    "filename": "DS_BIBILE_276.geojson"
   },
   {
     "fid": 277,
@@ -3875,7 +4427,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.05805123031827251,
-    "st_length(shape)": 1.310916989128233
+    "st_length(shape)": 1.310916989128233,
+    "type": "ds_divisions",
+    "filename": "DS_BUTTALA_277.geojson"
   },
   {
     "fid": 278,
@@ -3889,7 +4443,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.04969149333041596,
-    "st_length(shape)": 1.2804096925139954
+    "st_length(shape)": 1.2804096925139954,
+    "type": "ds_divisions",
+    "filename": "DS_KATHARAGAMA_278.geojson"
   },
   {
     "fid": 279,
@@ -3903,7 +4459,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.061423090468131665,
-    "st_length(shape)": 2.1934773601263378
+    "st_length(shape)": 2.1934773601263378,
+    "type": "ds_divisions",
+    "filename": "DS_MADULLA_279.geojson"
   },
   {
     "fid": 280,
@@ -3917,7 +4475,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.019671261981086336,
-    "st_length(shape)": 0.7613292954896725
+    "st_length(shape)": 0.7613292954896725,
+    "type": "ds_divisions",
+    "filename": "DS_MEDAGAMA_280.geojson"
   },
   {
     "fid": 281,
@@ -3931,7 +4491,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.02376651710673802,
-    "st_length(shape)": 0.877584315651321
+    "st_length(shape)": 0.877584315651321,
+    "type": "ds_divisions",
+    "filename": "DS_MONARAGALA_281.geojson"
   },
   {
     "fid": 282,
@@ -3945,7 +4507,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.015041002430560632,
-    "st_length(shape)": 0.6146806696757698
+    "st_length(shape)": 0.6146806696757698,
+    "type": "ds_divisions",
+    "filename": "DS_SEVANAGALA_282.geojson"
   },
   {
     "fid": 283,
@@ -3959,7 +4523,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.08671289724121012,
-    "st_length(shape)": 2.151428070939251
+    "st_length(shape)": 2.151428070939251,
+    "type": "ds_divisions",
+    "filename": "DS_SIYAMBALANDUWA_283.geojson"
   },
   {
     "fid": 284,
@@ -3973,7 +4539,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.047109934850793934,
-    "st_length(shape)": 1.296438185877617
+    "st_length(shape)": 1.296438185877617,
+    "type": "ds_divisions",
+    "filename": "DS_WELIKANDA_284.geojson"
   },
   {
     "fid": 285,
@@ -3987,7 +4555,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.020387904141757108,
-    "st_length(shape)": 0.9473342741451851
+    "st_length(shape)": 0.9473342741451851,
+    "type": "ds_divisions",
+    "filename": "DS_ANAMADUWA_285.geojson"
   },
   {
     "fid": 286,
@@ -4001,7 +4571,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.012989879229142147,
-    "st_length(shape)": 0.6994831343936845
+    "st_length(shape)": 0.6994831343936845,
+    "type": "ds_divisions",
+    "filename": "DS_ARACHCHIKATTUWA_286.geojson"
   },
   {
     "fid": 287,
@@ -4015,7 +4587,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.007610194141290162,
-    "st_length(shape)": 0.5511811447194546
+    "st_length(shape)": 0.5511811447194546,
+    "type": "ds_divisions",
+    "filename": "DS_CHILAW_287.geojson"
   },
   {
     "fid": 288,
@@ -4029,7 +4603,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.006279235726332846,
-    "st_length(shape)": 0.5324547131079908
+    "st_length(shape)": 0.5324547131079908,
+    "type": "ds_divisions",
+    "filename": "DS_DANKOTUWA_288.geojson"
   },
   {
     "fid": 289,
@@ -4043,7 +4619,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.013344041440346227,
-    "st_length(shape)": 2.4056201688990213
+    "st_length(shape)": 2.4056201688990213,
+    "type": "ds_divisions",
+    "filename": "DS_KALPITIYA_289.geojson"
   },
   {
     "fid": 290,
@@ -4057,7 +4635,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.041000822737622504,
-    "st_length(shape)": 1.161117101800411
+    "st_length(shape)": 1.161117101800411,
+    "type": "ds_divisions",
+    "filename": "DS_KARUWALAGASWEWA_290.geojson"
   },
   {
     "fid": 291,
@@ -4071,7 +4651,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.007622033250569285,
-    "st_length(shape)": 0.491965477667878
+    "st_length(shape)": 0.491965477667878,
+    "type": "ds_divisions",
+    "filename": "DS_MADAMPE_291.geojson"
   },
   {
     "fid": 292,
@@ -4085,7 +4667,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.01517205358384426,
-    "st_length(shape)": 0.737666938776993
+    "st_length(shape)": 0.737666938776993,
+    "type": "ds_divisions",
+    "filename": "DS_MAHAKUMBUKKADAWALA_292.geojson"
   },
   {
     "fid": 293,
@@ -4099,7 +4683,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.005992505335303558,
-    "st_length(shape)": 0.5392729602983504
+    "st_length(shape)": 0.5392729602983504,
+    "type": "ds_divisions",
+    "filename": "DS_MAHAWEWA_293.geojson"
   },
   {
     "fid": 294,
@@ -4113,7 +4699,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.020204603560941253,
-    "st_length(shape)": 0.9429041712854173
+    "st_length(shape)": 0.9429041712854173,
+    "type": "ds_divisions",
+    "filename": "DS_MUNDEL_294.geojson"
   },
   {
     "fid": 295,
@@ -4127,7 +4715,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.006373133426273217,
-    "st_length(shape)": 0.44037178746714184
+    "st_length(shape)": 0.44037178746714184,
+    "type": "ds_divisions",
+    "filename": "DS_NATTANDIYA_295.geojson"
   },
   {
     "fid": 296,
@@ -4141,7 +4731,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.014066810552886057,
-    "st_length(shape)": 0.5882518208803732
+    "st_length(shape)": 0.5882518208803732,
+    "type": "ds_divisions",
+    "filename": "DS_NAWAGATTEGAMA_296.geojson"
   },
   {
     "fid": 297,
@@ -4155,7 +4747,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.009935067140881366,
-    "st_length(shape)": 0.731093752169509
+    "st_length(shape)": 0.731093752169509,
+    "type": "ds_divisions",
+    "filename": "DS_PALLAMA_297.geojson"
   },
   {
     "fid": 298,
@@ -4169,7 +4763,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.014269358225357881,
-    "st_length(shape)": 0.7310235944400102
+    "st_length(shape)": 0.7310235944400102,
+    "type": "ds_divisions",
+    "filename": "DS_PUTTALAM_298.geojson"
   },
   {
     "fid": 299,
@@ -4183,7 +4779,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.06053424491732461,
-    "st_length(shape)": 1.752825991214123
+    "st_length(shape)": 1.752825991214123,
+    "type": "ds_divisions",
+    "filename": "DS_VANATHAVILLUWA_299.geojson"
   },
   {
     "fid": 300,
@@ -4197,7 +4795,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.027065931523820832,
-    "st_length(shape)": 1.2375286968063879
+    "st_length(shape)": 1.2375286968063879,
+    "type": "ds_divisions",
+    "filename": "DS_RATNAPURA_300.geojson"
   },
   {
     "fid": 301,
@@ -4211,7 +4811,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.01618955973495517,
-    "st_length(shape)": 0.7532522641533416
+    "st_length(shape)": 0.7532522641533416,
+    "type": "ds_divisions",
+    "filename": "DS_WELIGEPOLA_301.geojson"
   },
   {
     "fid": 302,
@@ -4225,7 +4827,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.025254004189565082,
-    "st_length(shape)": 0.7992026207449069
+    "st_length(shape)": 0.7992026207449069,
+    "type": "ds_divisions",
+    "filename": "DS_GOMARANKADAWALA_302.geojson"
   },
   {
     "fid": 303,
@@ -4239,7 +4843,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.03387978997208702,
-    "st_length(shape)": 1.0320948852723202
+    "st_length(shape)": 1.0320948852723202,
+    "type": "ds_divisions",
+    "filename": "DS_KANTALE_303.geojson"
   },
   {
     "fid": 304,
@@ -4253,7 +4859,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.01244335934930419,
-    "st_length(shape)": 0.6237147721575963
+    "st_length(shape)": 0.6237147721575963,
+    "type": "ds_divisions",
+    "filename": "DS_KINNIYA_304.geojson"
   },
   {
     "fid": 305,
@@ -4267,7 +4875,9 @@
     "adjusted_area": null,
     "description": "DSD Boundary Problems",
     "st_area(shape)": 0.03666593000335673,
-    "st_length(shape)": 1.2961900501199133
+    "st_length(shape)": 1.2961900501199133,
+    "type": "ds_divisions",
+    "filename": "DS_KUCHCHAWELI_305.geojson"
   },
   {
     "fid": 306,
@@ -4281,7 +4891,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.02284817285481514,
-    "st_length(shape)": 0.8897964163913974
+    "st_length(shape)": 0.8897964163913974,
+    "type": "ds_divisions",
+    "filename": "DS_MORAWEWA_306.geojson"
   },
   {
     "fid": 307,
@@ -4295,7 +4907,9 @@
     "adjusted_area": null,
     "description": "DSD Boundary Problems",
     "st_area(shape)": 0.014585537853852946,
-    "st_length(shape)": 0.79105345703493
+    "st_length(shape)": 0.79105345703493,
+    "type": "ds_divisions",
+    "filename": "DS_MUTHUR_307.geojson"
   },
   {
     "fid": 308,
@@ -4309,7 +4923,9 @@
     "adjusted_area": null,
     "description": "DSD Boundary Problems",
     "st_area(shape)": 0.009384961454736203,
-    "st_length(shape)": 0.672509554712328
+    "st_length(shape)": 0.672509554712328,
+    "type": "ds_divisions",
+    "filename": "DS_PADAVI SRI PURA_308.geojson"
   },
   {
     "fid": 309,
@@ -4323,7 +4939,9 @@
     "adjusted_area": null,
     "description": "DSD Boundary Problems",
     "st_area(shape)": 0.024402513233557768,
-    "st_length(shape)": 1.2653801946310035
+    "st_length(shape)": 1.2653801946310035,
+    "type": "ds_divisions",
+    "filename": "DS_SERUVILA_309.geojson"
   },
   {
     "fid": 310,
@@ -4337,7 +4955,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.02251674644332432,
-    "st_length(shape)": 0.8769414981817262
+    "st_length(shape)": 0.8769414981817262,
+    "type": "ds_divisions",
+    "filename": "DS_THAMBALAGAMUWA_310.geojson"
   },
   {
     "fid": 311,
@@ -4351,7 +4971,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0106625790298745,
-    "st_length(shape)": 1.0581179172525321
+    "st_length(shape)": 1.0581179172525321,
+    "type": "ds_divisions",
+    "filename": "DS_TOWN & GRAVETS_311.geojson"
   },
   {
     "fid": 312,
@@ -4365,7 +4987,9 @@
     "adjusted_area": null,
     "description": "DSD Boundary Problems",
     "st_area(shape)": 0.008462244488883271,
-    "st_length(shape)": 0.6060644141699054
+    "st_length(shape)": 0.6060644141699054,
+    "type": "ds_divisions",
+    "filename": "DS_VERUGAL_312.geojson"
   },
   {
     "fid": 313,
@@ -4379,7 +5003,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.050699511747330575,
-    "st_length(shape)": 1.817057447603541
+    "st_length(shape)": 1.817057447603541,
+    "type": "ds_divisions",
+    "filename": "DS_VAVUNIYA_313.geojson"
   },
   {
     "fid": 314,
@@ -4393,7 +5019,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.05646729705613698,
-    "st_length(shape)": 1.3648858107747794
+    "st_length(shape)": 1.3648858107747794,
+    "type": "ds_divisions",
+    "filename": "DS_VAVUNIYA NORTH_314.geojson"
   },
   {
     "fid": 315,
@@ -4407,7 +5035,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.01776927457023445,
-    "st_length(shape)": 1.7951757417631025
+    "st_length(shape)": 1.7951757417631025,
+    "type": "ds_divisions",
+    "filename": "DS_VAVUNIYA SOUTH_315.geojson"
   },
   {
     "fid": 316,
@@ -4421,7 +5051,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0341031366793212,
-    "st_length(shape)": 1.4712446431883182
+    "st_length(shape)": 1.4712446431883182,
+    "type": "ds_divisions",
+    "filename": "DS_VENGALACHEDDIKULAM_316.geojson"
   },
   {
     "fid": 317,
@@ -4435,7 +5067,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0033777045493349755,
-    "st_length(shape)": 0.40124837907971833
+    "st_length(shape)": 0.40124837907971833,
+    "type": "ds_divisions",
+    "filename": "DS_WENNAPPUWA_317.geojson"
   },
   {
     "fid": 318,
@@ -4449,7 +5083,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.01335860254469995,
-    "st_length(shape)": 0.7201690220672355
+    "st_length(shape)": 0.7201690220672355,
+    "type": "ds_divisions",
+    "filename": "DS_AYAGAMA_318.geojson"
   },
   {
     "fid": 319,
@@ -4463,7 +5099,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.022467364926378654,
-    "st_length(shape)": 1.2613739399149788
+    "st_length(shape)": 1.2613739399149788,
+    "type": "ds_divisions",
+    "filename": "DS_BALANGODA_319.geojson"
   },
   {
     "fid": 320,
@@ -4477,7 +5115,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.011532500722054131,
-    "st_length(shape)": 0.6742370985556182
+    "st_length(shape)": 0.6742370985556182,
+    "type": "ds_divisions",
+    "filename": "DS_EHELIYAGODA_320.geojson"
   },
   {
     "fid": 321,
@@ -4491,7 +5131,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.007000799006146838,
-    "st_length(shape)": 0.47713351983304186
+    "st_length(shape)": 0.47713351983304186,
+    "type": "ds_divisions",
+    "filename": "DS_ELAPATHA_321.geojson"
   },
   {
     "fid": 322,
@@ -4505,7 +5147,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.03183512676397831,
-    "st_length(shape)": 1.283253511535607
+    "st_length(shape)": 1.283253511535607,
+    "type": "ds_divisions",
+    "filename": "DS_EMBILIPITIYA_322.geojson"
   },
   {
     "fid": 323,
@@ -4519,7 +5163,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.012436228358175688,
-    "st_length(shape)": 0.7777562880468867
+    "st_length(shape)": 0.7777562880468867,
+    "type": "ds_divisions",
+    "filename": "DS_GODAKAWELA_323.geojson"
   },
   {
     "fid": 324,
@@ -4533,7 +5179,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.021374560416689687,
-    "st_length(shape)": 0.8694856519679259
+    "st_length(shape)": 0.8694856519679259,
+    "type": "ds_divisions",
+    "filename": "DS_IMBULPE_324.geojson"
   },
   {
     "fid": 325,
@@ -4547,7 +5195,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.008523060340847257,
-    "st_length(shape)": 0.5560838898241527
+    "st_length(shape)": 0.5560838898241527,
+    "type": "ds_divisions",
+    "filename": "DS_KAHAWATTHA_325.geojson"
   },
   {
     "fid": 326,
@@ -4561,7 +5211,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.03125989107570424,
-    "st_length(shape)": 1.1593319481463162
+    "st_length(shape)": 1.1593319481463162,
+    "type": "ds_divisions",
+    "filename": "DS_KALAWANA_326.geojson"
   },
   {
     "fid": 327,
@@ -4575,7 +5227,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.0064965689006864355,
-    "st_length(shape)": 0.6182484215100558
+    "st_length(shape)": 0.6182484215100558,
+    "type": "ds_divisions",
+    "filename": "DS_KIRIELLA_327.geojson"
   },
   {
     "fid": 328,
@@ -4589,7 +5243,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.01453628921489868,
-    "st_length(shape)": 0.836801930081192
+    "st_length(shape)": 0.836801930081192,
+    "type": "ds_divisions",
+    "filename": "DS_KOLONNA_328.geojson"
   },
   {
     "fid": 329,
@@ -4603,7 +5259,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.013728621655490039,
-    "st_length(shape)": 0.8729086331859354
+    "st_length(shape)": 0.8729086331859354,
+    "type": "ds_divisions",
+    "filename": "DS_KURUVITA_329.geojson"
   },
   {
     "fid": 330,
@@ -4617,7 +5275,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.012547125521638712,
-    "st_length(shape)": 0.7154154699178801
+    "st_length(shape)": 0.7154154699178801,
+    "type": "ds_divisions",
+    "filename": "DS_NIVITHIGALA_330.geojson"
   },
   {
     "fid": 331,
@@ -4631,7 +5291,9 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.006483380899988539,
-    "st_length(shape)": 0.4759431045602968
+    "st_length(shape)": 0.4759431045602968,
+    "type": "ds_divisions",
+    "filename": "DS_OPANAYAKE_331.geojson"
   },
   {
     "fid": 332,
@@ -4645,6 +5307,8 @@
     "adjusted_area": null,
     "description": null,
     "st_area(shape)": 0.011994526009141146,
-    "st_length(shape)": 0.8391784310873162
+    "st_length(shape)": 0.8391784310873162,
+    "type": "ds_divisions",
+    "filename": "DS_PELMADULLA_332.geojson"
   }
 ]

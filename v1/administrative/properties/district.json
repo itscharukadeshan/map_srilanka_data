@@ -9,7 +9,9 @@
     "adjusted_area": 4415,
     "description": "District Boundary is not correct at some places",
     "st_area(shape)": 0.36631806911746273,
-    "st_length(shape)": 5.414519419609709
+    "st_length(shape)": 5.414519419609709,
+    "type": "district",
+    "filename": "DST_AMPARA_1.geojson"
   },
   {
     "fid": 2,
@@ -21,7 +23,9 @@
     "adjusted_area": 7179,
     "description": "District Boundary is not correct at some places",
     "st_area(shape)": 0.5923475418484384,
-    "st_length(shape)": 4.530993040171931
+    "st_length(shape)": 4.530993040171931,
+    "type": "district",
+    "filename": "DST_ANURADHAPURA_2.geojson"
   },
   {
     "fid": 3,
@@ -33,7 +37,9 @@
     "adjusted_area": 2861,
     "description": null,
     "st_area(shape)": 0.23506482991872168,
-    "st_length(shape)": 3.940074972322967
+    "st_length(shape)": 3.940074972322967,
+    "type": "district",
+    "filename": "DST_BADULLA_3.geojson"
   },
   {
     "fid": 4,
@@ -45,7 +51,9 @@
     "adjusted_area": 2854,
     "description": "District Boundary is not correct at some places",
     "st_area(shape)": 0.21527249322214678,
-    "st_length(shape)": 2.97320312197571
+    "st_length(shape)": 2.97320312197571,
+    "type": "district",
+    "filename": "DST_BATTICALOA_4.geojson"
   },
   {
     "fid": 5,
@@ -57,7 +65,9 @@
     "adjusted_area": 701,
     "description": null,
     "st_area(shape)": 0.05608218764503745,
-    "st_length(shape)": 1.8871160469770043
+    "st_length(shape)": 1.8871160469770043,
+    "type": "district",
+    "filename": "DST_COLOMBO_5.geojson"
   },
   {
     "fid": 6,
@@ -69,7 +79,9 @@
     "adjusted_area": 1652,
     "description": null,
     "st_area(shape)": 0.13183444375449396,
-    "st_length(shape)": 2.58881322600343
+    "st_length(shape)": 2.58881322600343,
+    "type": "district",
+    "filename": "DST_GALLE_6.geojson"
   },
   {
     "fid": 7,
@@ -81,7 +93,9 @@
     "adjusted_area": 1387,
     "description": null,
     "st_area(shape)": 0.11597250065470674,
-    "st_length(shape)": 1.909448247485752
+    "st_length(shape)": 1.909448247485752,
+    "type": "district",
+    "filename": "DST_GAMPAHA_7.geojson"
   },
   {
     "fid": 8,
@@ -93,7 +107,9 @@
     "adjusted_area": 2609,
     "description": "District Boundary is not correct at some places",
     "st_area(shape)": 0.21475567613065888,
-    "st_length(shape)": 3.76700261782219
+    "st_length(shape)": 3.76700261782219,
+    "type": "district",
+    "filename": "DST_HAMBANTOTA_8.geojson"
   },
   {
     "fid": 9,
@@ -105,7 +121,9 @@
     "adjusted_area": 1025,
     "description": null,
     "st_area(shape)": 0.08990169268580953,
-    "st_length(shape)": 5.913630914698716
+    "st_length(shape)": 5.913630914698716,
+    "type": "district",
+    "filename": "DST_JAFFNA_9.geojson"
   },
   {
     "fid": 10,
@@ -117,7 +135,9 @@
     "adjusted_area": 1598,
     "description": null,
     "st_area(shape)": 0.13466609933425006,
-    "st_length(shape)": 2.0412177432160417
+    "st_length(shape)": 2.0412177432160417,
+    "type": "district",
+    "filename": "DST_KALUTARA_10.geojson"
   },
   {
     "fid": 11,
@@ -129,7 +149,9 @@
     "adjusted_area": 1940,
     "description": null,
     "st_area(shape)": 0.15784357209130523,
-    "st_length(shape)": 3.0891249367140956
+    "st_length(shape)": 3.0891249367140956,
+    "type": "district",
+    "filename": "DST_KANDY_11.geojson"
   },
   {
     "fid": 12,
@@ -141,7 +163,9 @@
     "adjusted_area": 1693,
     "description": null,
     "st_area(shape)": 0.13569012518084955,
-    "st_length(shape)": 2.3524980725825295
+    "st_length(shape)": 2.3524980725825295,
+    "type": "district",
+    "filename": "DST_KEGALLE_12.geojson"
   },
   {
     "fid": 13,
@@ -153,7 +177,9 @@
     "adjusted_area": 1279,
     "description": null,
     "st_area(shape)": 0.10859839072222968,
-    "st_length(shape)": 4.8884041440923465
+    "st_length(shape)": 4.8884041440923465,
+    "type": "district",
+    "filename": "DST_KILINOCHCHI_13.geojson"
   },
   {
     "fid": 14,
@@ -165,7 +191,9 @@
     "adjusted_area": 4816,
     "description": null,
     "st_area(shape)": 0.4020438181155799,
-    "st_length(shape)": 3.759389225149365
+    "st_length(shape)": 3.759389225149365,
+    "type": "district",
+    "filename": "DST_KURUNEGALA_14.geojson"
   },
   {
     "fid": 15,
@@ -177,7 +205,9 @@
     "adjusted_area": 1996,
     "description": null,
     "st_area(shape)": 0.16529025206620285,
-    "st_length(shape)": 4.3965151305265175
+    "st_length(shape)": 4.3965151305265175,
+    "type": "district",
+    "filename": "DST_MANNAR_15.geojson"
   },
   {
     "fid": 16,
@@ -189,7 +219,9 @@
     "adjusted_area": 1993,
     "description": "District Boundary is not correct at some places",
     "st_area(shape)": 0.16873032528564835,
-    "st_length(shape)": 2.6721890623098483
+    "st_length(shape)": 2.6721890623098483,
+    "type": "district",
+    "filename": "DST_MATALE_16.geojson"
   },
   {
     "fid": 17,
@@ -201,7 +233,9 @@
     "adjusted_area": 1283,
     "description": "District Boundary is not correct at some places",
     "st_area(shape)": 0.10677578403338141,
-    "st_length(shape)": 2.5217483781783114
+    "st_length(shape)": 2.5217483781783114,
+    "type": "district",
+    "filename": "DST_MATARA_17.geojson"
   },
   {
     "fid": 18,
@@ -213,7 +247,9 @@
     "adjusted_area": 5639,
     "description": "District Boundary is not correct at some places",
     "st_area(shape)": 0.4706496227999806,
-    "st_length(shape)": 4.876317365078168
+    "st_length(shape)": 4.876317365078168,
+    "type": "district",
+    "filename": "DST_MONARAGALA_18.geojson"
   },
   {
     "fid": 19,
@@ -225,7 +261,9 @@
     "adjusted_area": 2693,
     "description": null,
     "st_area(shape)": 0.22056357226830212,
-    "st_length(shape)": 3.0475643035530062
+    "st_length(shape)": 3.0475643035530062,
+    "type": "district",
+    "filename": "DST_MULLAITIVU_19.geojson"
   },
   {
     "fid": 20,
@@ -237,7 +275,9 @@
     "adjusted_area": 1741,
     "description": null,
     "st_area(shape)": 0.1427791427646458,
-    "st_length(shape)": 2.5548096973105077
+    "st_length(shape)": 2.5548096973105077,
+    "type": "district",
+    "filename": "DST_NUWARA ELIYA_20.geojson"
   },
   {
     "fid": 21,
@@ -249,7 +289,9 @@
     "adjusted_area": 3293,
     "description": "District Boundary is not correct at some places",
     "st_area(shape)": 0.2848227335595634,
-    "st_length(shape)": 3.4897965223878122
+    "st_length(shape)": 3.4897965223878122,
+    "type": "district",
+    "filename": "DST_POLONNARUWA_21.geojson"
   },
   {
     "fid": 22,
@@ -261,7 +303,9 @@
     "adjusted_area": 3072,
     "description": null,
     "st_area(shape)": 0.2591595919592092,
-    "st_length(shape)": 6.050652041235452
+    "st_length(shape)": 6.050652041235452,
+    "type": "district",
+    "filename": "DST_PUTTALAM_22.geojson"
   },
   {
     "fid": 23,
@@ -273,7 +317,9 @@
     "adjusted_area": 3275,
     "description": "District Boundary is not correct at some places",
     "st_area(shape)": 0.26883013761529423,
-    "st_length(shape)": 3.4026693303060034
+    "st_length(shape)": 3.4026693303060034,
+    "type": "district",
+    "filename": "DST_RATNAPURA_23.geojson"
   },
   {
     "fid": 24,
@@ -285,7 +331,9 @@
     "adjusted_area": 2727,
     "description": null,
     "st_area(shape)": 0.22110583887335664,
-    "st_length(shape)": 4.012132865087801
+    "st_length(shape)": 4.012132865087801,
+    "type": "district",
+    "filename": "DST_TRINCOMALEE_24.geojson"
   },
   {
     "fid": 25,
@@ -297,6 +345,8 @@
     "adjusted_area": 1891,
     "description": null,
     "st_area(shape)": 0.15903922005302312,
-    "st_length(shape)": 2.532879413362186
+    "st_length(shape)": 2.532879413362186,
+    "type": "district",
+    "filename": "DST_VAVUNIYA_25.geojson"
   }
 ]
