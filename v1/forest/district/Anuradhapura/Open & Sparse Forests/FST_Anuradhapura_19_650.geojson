@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 650,
+        "forest_type": 11,
+        "forest_name": "Minneriya(WDL)",
+        "range": " ",
+        "beat": " ",
+        "division": " ",
+        "fa_division": null,
+        "gfcode": "19",
+        "description": "Open & Sparse Forests",
+        "area_final": 0.03144673,
+        "district": "Anuradhapura",
+        "st_area(shape)": 2.5800718404500008e-8,
+        "st_length(shape)": 0.0009829079963657459
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                80.77638359900004,
+                8.06791865100007
+              ],
+              [
+                80.77604044000003,
+                8.068213524000043
+              ],
+              [
+                80.77640040800003,
+                8.068054579000034
+              ],
+              [
+                80.77638359900004,
+                8.06791865100007
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

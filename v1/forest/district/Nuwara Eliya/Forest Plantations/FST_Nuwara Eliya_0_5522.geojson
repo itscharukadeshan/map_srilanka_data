@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 5522,
+        "forest_type": 7,
+        "forest_name": " ",
+        "range": " ",
+        "beat": " ",
+        "division": " ",
+        "fa_division": null,
+        "gfcode": "0",
+        "description": "Forest Plantations",
+        "area_final": 0.00003375,
+        "district": "Nuwara Eliya",
+        "st_area(shape)": 2.7624538e-11,
+        "st_length(shape)": 0.00002461662974936954
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                80.53865389700007,
+                6.960971297000071
+              ],
+              [
+                80.53864738000004,
+                6.960970154000051
+              ],
+              [
+                80.53864980500003,
+                6.960979057000031
+              ],
+              [
+                80.53865389700007,
+                6.960971297000071
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

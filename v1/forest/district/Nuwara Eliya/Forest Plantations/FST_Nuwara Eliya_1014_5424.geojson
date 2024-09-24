@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 5424,
+        "forest_type": 7,
+        "forest_name": "Uvaparanagama",
+        "range": "Welimada",
+        "beat": "Uvaparanagama",
+        "division": "Uvaparanagama",
+        "fa_division": null,
+        "gfcode": "1014",
+        "description": "Forest Plantations",
+        "area_final": 0.23992748,
+        "district": "Nuwara Eliya",
+        "st_area(shape)": 1.9636812154350006e-7,
+        "st_length(shape)": 0.0027147978008573996
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                80.88563965600008,
+                6.975563703000034
+              ],
+              [
+                80.88533910200005,
+                6.975511324000024
+              ],
+              [
+                80.88565420500004,
+                6.975898639000036
+              ],
+              [
+                80.88635265500005,
+                6.976122772000053
+              ],
+              [
+                80.88649375600005,
+                6.976146234000055
+              ],
+              [
+                80.88563965600008,
+                6.975563703000034
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

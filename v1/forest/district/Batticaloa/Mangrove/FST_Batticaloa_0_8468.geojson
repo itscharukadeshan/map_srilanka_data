@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 8468,
+        "forest_type": 8,
+        "forest_name": " ",
+        "range": " ",
+        "beat": " ",
+        "division": " ",
+        "fa_division": null,
+        "gfcode": "0",
+        "description": "Mangrove",
+        "area_final": 0.07964148,
+        "district": "Batticaloa",
+        "st_area(shape)": 6.527186110750001e-8,
+        "st_length(shape)": 0.002484281194704337
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                81.64506706200007,
+                7.708949501000063
+              ],
+              [
+                81.64451384600005,
+                7.708950629000071
+              ],
+              [
+                81.64486369200006,
+                7.70899096200003
+              ],
+              [
+                81.64564764100004,
+                7.709361385000022
+              ],
+              [
+                81.64506706200007,
+                7.708949501000063
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 7020,
+        "forest_type": 10,
+        "forest_name": " ",
+        "range": " ",
+        "beat": " ",
+        "division": " ",
+        "fa_division": null,
+        "gfcode": "71",
+        "description": "Grasslands",
+        "area_final": 0.42893527,
+        "district": "Ratnapura",
+        "st_area(shape)": 3.509289734835001e-7,
+        "st_length(shape)": 0.003021993884786511
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                80.80892019800007,
+                6.791569141000025
+              ],
+              [
+                80.80964367300004,
+                6.791916265000054
+              ],
+              [
+                80.81005308000005,
+                6.792023956000037
+              ],
+              [
+                80.80961890100008,
+                6.79145985100007
+              ],
+              [
+                80.80883124000007,
+                6.791302448000067
+              ],
+              [
+                80.80892019800007,
+                6.791569141000025
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

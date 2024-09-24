@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 5695,
+        "forest_type": 11,
+        "forest_name": "Galoya",
+        "range": "Habarana",
+        "beat": "Habarana",
+        "division": "Hingurana",
+        "fa_division": null,
+        "gfcode": "100",
+        "description": "Open & Sparse Forests",
+        "area_final": 1.04534043,
+        "district": "Polonnaruwa",
+        "st_area(shape)": 8.576506160910002e-7,
+        "st_length(shape)": 0.0060814802782876015
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                80.77543370200004,
+                8.064657861000057
+              ],
+              [
+                80.77612904000006,
+                8.065860034000025
+              ],
+              [
+                80.77630792500008,
+                8.067306674000065
+              ],
+              [
+                80.77653262000007,
+                8.066000255000063
+              ],
+              [
+                80.77653261500006,
+                8.065598665000039
+              ],
+              [
+                80.77633114100007,
+                8.06523723600003
+              ],
+              [
+                80.77592819700004,
+                8.064875808000068
+              ],
+              [
+                80.77560584300005,
+                8.064675016000024
+              ],
+              [
+                80.77543370200004,
+                8.064657861000057
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

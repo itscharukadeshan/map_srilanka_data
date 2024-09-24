@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 3952,
+        "forest_type": 13,
+        "forest_name": " ",
+        "range": " ",
+        "beat": " ",
+        "division": " ",
+        "fa_division": null,
+        "gfcode": "0",
+        "description": "Shrubs",
+        "area_final": 0.00933177,
+        "district": "Matale",
+        "st_area(shape)": 7.649893448500001e-9,
+        "st_length(shape)": 0.0010551787781509364
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                80.63125646200007,
+                7.714537434000022
+              ],
+              [
+                80.63122771400003,
+                7.714965448000044
+              ],
+              [
+                80.63125210600003,
+                7.71506290700006
+              ],
+              [
+                80.63125629900009,
+                7.715029530000038
+              ],
+              [
+                80.63125646200007,
+                7.714537434000022
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

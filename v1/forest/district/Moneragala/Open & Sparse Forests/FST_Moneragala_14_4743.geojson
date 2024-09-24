@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 4743,
+        "forest_type": 11,
+        "forest_name": " ",
+        "range": " ",
+        "beat": " ",
+        "division": " ",
+        "fa_division": null,
+        "gfcode": "14",
+        "description": "Open & Sparse Forests",
+        "area_final": 0.00772207,
+        "district": "Moneragala",
+        "st_area(shape)": 6.3121155e-9,
+        "st_length(shape)": 0.0006033897571539919
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                81.30551836800004,
+                6.376072752000027
+              ],
+              [
+                81.30568517900008,
+                6.376172647000033
+              ],
+              [
+                81.30579334800007,
+                6.376187992000041
+              ],
+              [
+                81.30562496600004,
+                6.376101503000029
+              ],
+              [
+                81.30551836800004,
+                6.376072752000027
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

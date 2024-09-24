@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 1562,
+        "forest_type": 13,
+        "forest_name": "Pangurugaswewa",
+        "range": "Gomarankadawala",
+        "beat": "Gomarankadawala",
+        "division": "Gomarankadawala",
+        "fa_division": null,
+        "gfcode": "136",
+        "description": "Shrubs",
+        "area_final": 0.30814398,
+        "district": "Anuradhapura",
+        "st_area(shape)": 2.5324237876900004e-7,
+        "st_length(shape)": 0.0027232176426901914
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                80.89359762300006,
+                8.736539307000044
+              ],
+              [
+                80.89337731500007,
+                8.73655399100005
+              ],
+              [
+                80.89328652700004,
+                8.736644374000036
+              ],
+              [
+                80.89316553400005,
+                8.736945595000066
+              ],
+              [
+                80.89304455100006,
+                8.737276934000022
+              ],
+              [
+                80.89304462000007,
+                8.737487762000058
+              ],
+              [
+                80.89312590700007,
+                8.737703212000042
+              ],
+              [
+                80.89359762300006,
+                8.736539307000044
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

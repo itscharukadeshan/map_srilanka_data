@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 6242,
+        "forest_type": 3,
+        "forest_name": " ",
+        "range": " ",
+        "beat": " ",
+        "division": " ",
+        "fa_division": null,
+        "gfcode": "59",
+        "description": "Dense Forests",
+        "area_final": 0.50377489,
+        "district": "Polonnaruwa",
+        "st_area(shape)": 4.1297240448350013e-7,
+        "st_length(shape)": 0.002970648743993065
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                80.82339528900008,
+                7.704415054000037
+              ],
+              [
+                80.82335770300006,
+                7.705619515000024
+              ],
+              [
+                80.82367697400008,
+                7.705619476000038
+              ],
+              [
+                80.82390890300007,
+                7.705285208000021
+              ],
+              [
+                80.82377998000004,
+                7.704873852000048
+              ],
+              [
+                80.82349643200007,
+                7.704616778000059
+              ],
+              [
+                80.82339528900008,
+                7.704415054000037
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

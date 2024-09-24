@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 1651,
+        "forest_type": 13,
+        "forest_name": " ",
+        "range": " ",
+        "beat": " ",
+        "division": " ",
+        "fa_division": null,
+        "gfcode": "0",
+        "description": "Shrubs",
+        "area_final": 0.00335911,
+        "district": "Anuradhapura",
+        "st_area(shape)": 2.758276022000001e-9,
+        "st_length(shape)": 0.0002529679887646378
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                80.80220461300007,
+                8.400720635000027
+              ],
+              [
+                80.80229974100007,
+                8.400720628000045
+              ],
+              [
+                80.80221435700008,
+                8.400668677000056
+              ],
+              [
+                80.80219672300007,
+                8.400703803000056
+              ],
+              [
+                80.80220461300007,
+                8.400720635000027
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

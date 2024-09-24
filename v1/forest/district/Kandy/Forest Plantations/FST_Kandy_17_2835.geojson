@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 2835,
+        "forest_type": 7,
+        "forest_name": " ",
+        "range": "Nawalapitiya",
+        "beat": "Nawalapitiya",
+        "division": "Pasbage koralaya",
+        "fa_division": null,
+        "gfcode": "17",
+        "description": "Forest Plantations",
+        "area_final": 0.24904218,
+        "district": "Kandy",
+        "st_area(shape)": 2.0384606882600005e-7,
+        "st_length(shape)": 0.003373925031366413
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                80.48623121000008,
+                7.029789206000032
+              ],
+              [
+                80.48673382900006,
+                7.029424472000073
+              ],
+              [
+                80.48528239300003,
+                7.029848021000021
+              ],
+              [
+                80.48540356700005,
+                7.029934605000051
+              ],
+              [
+                80.48623121000008,
+                7.029789206000032
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                80.48911323400006,
+                7.026792277000027
+              ],
+              [
+                80.48911324500006,
+                7.026774944000067
+              ],
+              [
+                80.48900309900006,
+                7.02682277100007
+              ],
+              [
+                80.48911323400006,
+                7.026792277000027
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

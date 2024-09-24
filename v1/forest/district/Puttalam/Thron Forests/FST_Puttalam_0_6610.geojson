@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 6610,
+        "forest_type": 14,
+        "forest_name": " ",
+        "range": " ",
+        "beat": " ",
+        "division": " ",
+        "fa_division": null,
+        "gfcode": "0",
+        "description": "Thron Forests",
+        "area_final": 0.0134841,
+        "district": "Puttalam",
+        "st_area(shape)": 1.1062660866000002e-8,
+        "st_length(shape)": 0.0024696723080085523
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                79.87533345200006,
+                8.140403903000049
+              ],
+              [
+                79.87583073000008,
+                8.141533846000073
+              ],
+              [
+                79.87549931000007,
+                8.140736282000034
+              ],
+              [
+                79.87533345200006,
+                8.140403903000049
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
