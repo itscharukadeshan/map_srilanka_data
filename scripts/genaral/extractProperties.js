@@ -2,36 +2,34 @@
 
 const fs = require("fs");
 const path = require("path");
-const readline = require("readline");
 
 function extractPropertiesFromGeoJSON(inputFile) {
   const outputFileName =
     path.basename(inputFile, ".geojson") + "_properties.json";
   const writeStream = fs.createWriteStream(outputFileName);
 
-  // Initialize the output JSON object
   writeStream.write("{\n");
 
-  const lineReader = readline.createInterface({
-    input: fs.createReadStream(inputFile),
-    crlfDelay: Infinity,
-  });
+  fs.readFile(inputFile, "utf8", (err, data) => {
+    if (err) {
+      console.error(`Error reading file: ${err.message}`);
+      return;
+    }
 
-  let isFirstFeature = true;
-  let chunkSize = 100; // Define how many features to write per chunk
-  let featureBuffer = [];
-
-  lineReader.on("line", (line) => {
     try {
-      if (line.trim().startsWith('"features":')) {
-        // Ignore the start of the features array
+      const geojson = JSON.parse(data);
+      const features = geojson.features;
+
+      if (!Array.isArray(features)) {
+        console.error("Invalid GeoJSON: 'features' should be an array.");
         return;
       }
 
-      if (line.trim().endsWith("},")) {
-        // This is part of a feature; extract properties and buffer them
-        const feature = JSON.parse(line.trim().slice(0, -1)); // Remove trailing comma
+      let isFirstFeature = true;
+      let chunkSize = 100;
+      let featureBuffer = [];
 
+      features.forEach((feature) => {
         if (feature && feature.properties) {
           const objectId = feature.properties.objectid;
           if (objectId !== undefined) {
@@ -39,38 +37,27 @@ function extractPropertiesFromGeoJSON(inputFile) {
               `"${objectId}": ${JSON.stringify(feature.properties, null, 2)}`
             );
 
-            // Write chunk to the file once we reach the specified chunk size
             if (featureBuffer.length >= chunkSize) {
               flushChunkToFile(writeStream, featureBuffer, isFirstFeature);
               isFirstFeature = false;
-              featureBuffer = []; // Clear the buffer
+              featureBuffer = [];
             }
           }
         }
+      });
+
+      if (featureBuffer.length > 0) {
+        flushChunkToFile(writeStream, featureBuffer, isFirstFeature);
       }
-    } catch (err) {
-      console.error(`Error parsing line: ${err.message}`);
+      writeStream.write("\n}");
+      writeStream.end();
+      console.log(`Properties successfully extracted to ${outputFileName}`);
+    } catch (parseError) {
+      console.error(`Error parsing GeoJSON: ${parseError.message}`);
     }
-  });
-
-  lineReader.on("close", () => {
-    // Write any remaining features in the buffer
-    if (featureBuffer.length > 0) {
-      flushChunkToFile(writeStream, featureBuffer, isFirstFeature);
-    }
-
-    // End the JSON object
-    writeStream.write("\n}");
-    writeStream.end();
-    console.log(`Properties successfully extracted to ${outputFileName}`);
-  });
-
-  lineReader.on("error", (err) => {
-    console.error(`Error reading file: ${err.message}`);
   });
 }
 
-// Helper function to flush the chunk buffer to the output file
 function flushChunkToFile(writeStream, featureBuffer, isFirstFeature) {
   const chunk = featureBuffer.join(",\n");
   if (!isFirstFeature) {
