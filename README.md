@@ -2,4 +2,4 @@
 
 All the data is originated from : https://gisapps.nsdi.gov.lk
 
-![GitHub repo size](https://img.shields.io/github/repo-size/:itscharukadeshan/:itscharukadeshan)
+![GitHub repo size](https://img.shields.io/github/repo-size/itscharukadeshan/map_srilanka_data)
