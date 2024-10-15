@@ -1,0 +1,11 @@
+{
+  "central": ["kandy", "matale", "nuwara eliya"],
+  "eastern": ["ampara", "batticaloa", "trincomalee"],
+  "north_central": ["anuradhapura", "polonnaruwa"],
+  "northern": ["jaffna", "kilinochchi", "mannar", "mullaitivu", "vavuniya"],
+  "north_western": ["kurunegala", "puttalam"],
+  "sabaragamuwa": ["kegalle", "ratnapura"],
+  "southern": ["galle", "hambantota", "matara"],
+  "uva": ["badulla", "monaragala"],
+  "western": ["colombo", "gampaha", "kalutara"]
+}
