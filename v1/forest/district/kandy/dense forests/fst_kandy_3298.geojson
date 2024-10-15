@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 3298,
+        "forest_type": 6,
+        "forest_name": "Kandekumbura",
+        "range": "Teldeniya",
+        "beat": "Karalliyadda",
+        "division": "Madadumbara",
+        "fa_division": null,
+        "gfcode": "76",
+        "description": "Dense Forests",
+        "area_final": 0.04520403,
+        "district": "Kandy",
+        "st_area(shape)": 3.701608061200001e-8,
+        "st_length(shape)": 0.0013056864522283586
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                80.83422191400007,
+                7.218742275000068
+              ],
+              [
+                80.83460765100006,
+                7.218915560000028
+              ],
+              [
+                80.83479447200006,
+                7.21899326700003
+              ],
+              [
+                80.83439141500008,
+                7.218691468000031
+              ],
+              [
+                80.83422191400007,
+                7.218742275000068
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

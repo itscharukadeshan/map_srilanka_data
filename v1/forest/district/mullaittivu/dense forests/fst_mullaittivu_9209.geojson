@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 9209,
+        "forest_type": 1,
+        "forest_name": " ",
+        "range": " ",
+        "beat": " ",
+        "division": " ",
+        "fa_division": null,
+        "gfcode": "19",
+        "description": "Dense Forests",
+        "area_final": 0.00067861,
+        "district": "Mullaittivu",
+        "st_area(shape)": 5.58313878e-10,
+        "st_length(shape)": 0.00011840089667131865
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                80.26633384100006,
+                9.170251715000063
+              ],
+              [
+                80.26634594400008,
+                9.170281905000024
+              ],
+              [
+                80.26636371100005,
+                9.170233963000044
+              ],
+              [
+                80.26633384100006,
+                9.170251715000063
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

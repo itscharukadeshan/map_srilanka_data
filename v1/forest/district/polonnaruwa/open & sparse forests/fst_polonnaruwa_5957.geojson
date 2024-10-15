@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 5957,
+        "forest_type": 11,
+        "forest_name": "Wild life",
+        "range": "Polonnaruwa",
+        "beat": "Lankapura",
+        "division": "Lankapura",
+        "fa_division": null,
+        "gfcode": "104",
+        "description": "Open & Sparse Forests",
+        "area_final": 0.26586746,
+        "district": "Polonnaruwa",
+        "st_area(shape)": 2.1818866171550004e-7,
+        "st_length(shape)": 0.0020331355060387276
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                81.20250200800007,
+                8.197195090000037
+              ],
+              [
+                81.20275793800005,
+                8.196779883000033
+              ],
+              [
+                81.20268597600005,
+                8.19678417800003
+              ],
+              [
+                81.20240623200004,
+                8.196784477000051
+              ],
+              [
+                81.20206213900008,
+                8.19697780000007
+              ],
+              [
+                81.20221302400006,
+                8.19721347500007
+              ],
+              [
+                81.20239847300007,
+                8.197416281000073
+              ],
+              [
+                81.20250200800007,
+                8.197195090000037
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

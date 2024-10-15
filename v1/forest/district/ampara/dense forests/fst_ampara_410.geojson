@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 410,
+        "forest_type": 1,
+        "forest_name": " ",
+        "range": " ",
+        "beat": " ",
+        "division": " ",
+        "fa_division": null,
+        "gfcode": "0",
+        "description": "Dense Forests",
+        "area_final": 0.01876135,
+        "district": "Ampara",
+        "st_area(shape)": 1.5357038764500004e-8,
+        "st_length(shape)": 0.0008071212845955718
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                81.67075071700003,
+                7.149034727000071
+              ],
+              [
+                81.67065771600005,
+                7.149409395000021
+              ],
+              [
+                81.67079785800007,
+                7.149175068000034
+              ],
+              [
+                81.67075071700003,
+                7.149034727000071
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

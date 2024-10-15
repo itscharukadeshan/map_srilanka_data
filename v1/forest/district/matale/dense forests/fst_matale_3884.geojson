@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 3884,
+        "forest_type": 6,
+        "forest_name": " ",
+        "range": " ",
+        "beat": " ",
+        "division": " ",
+        "fa_division": null,
+        "gfcode": "59",
+        "description": "Dense Forests",
+        "area_final": 0.00471846,
+        "district": "Matale",
+        "st_area(shape)": 3.866730614000001e-9,
+        "st_length(shape)": 0.0008658976444297842
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                80.77844112200006,
+                7.569426332000035
+              ],
+              [
+                80.77887240600006,
+                7.569426326000041
+              ],
+              [
+                80.77849503200008,
+                7.569408400000043
+              ],
+              [
+                80.77844112200006,
+                7.569426332000035
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

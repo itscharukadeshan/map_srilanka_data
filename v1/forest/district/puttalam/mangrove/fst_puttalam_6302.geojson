@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 6302,
+        "forest_type": 8,
+        "forest_name": " ",
+        "range": " ",
+        "beat": " ",
+        "division": " ",
+        "fa_division": null,
+        "gfcode": "0",
+        "description": "Mangrove",
+        "area_final": 0.00851812,
+        "district": "Puttalam",
+        "st_area(shape)": 6.9793660820000015e-9,
+        "st_length(shape)": 0.0004158605196573403
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                79.80606513400005,
+                7.619709764000049
+              ],
+              [
+                79.80608828100003,
+                7.619580583000072
+              ],
+              [
+                79.80595848300004,
+                7.619701925000072
+              ],
+              [
+                79.80606513400005,
+                7.619709764000049
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 5260,
+        "forest_type": 6,
+        "forest_name": "Dorapoda kanda",
+        "range": "Bibile",
+        "beat": "Bibile",
+        "division": "Bibile",
+        "fa_division": null,
+        "gfcode": "64",
+        "description": "Dense Forests",
+        "area_final": 0.34969038,
+        "district": "Moneragala",
+        "st_area(shape)": 2.8626005703750007e-7,
+        "st_length(shape)": 0.0025356983391115217
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                81.17204295400006,
+                7.092040355000051
+              ],
+              [
+                81.17181261000007,
+                7.092098090000036
+              ],
+              [
+                81.17144081900005,
+                7.092935674000046
+              ],
+              [
+                81.17185428500005,
+                7.09298694000006
+              ],
+              [
+                81.17204295400006,
+                7.092040355000051
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

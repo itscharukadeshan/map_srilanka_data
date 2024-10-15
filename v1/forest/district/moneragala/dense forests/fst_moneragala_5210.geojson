@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 5210,
+        "forest_type": 1,
+        "forest_name": "Udawaragama hela",
+        "range": "Siyambalanduwa",
+        "beat": "Muthukandiya",
+        "division": "Siyambalanduwa",
+        "fa_division": null,
+        "gfcode": "31",
+        "description": "Dense Forests",
+        "area_final": 0.00387911,
+        "district": "Moneragala",
+        "st_area(shape)": 3.175276747000001e-9,
+        "st_length(shape)": 0.0003360493997788495
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                81.47924960500006,
+                7.113225349000061
+              ],
+              [
+                81.47911792900004,
+                7.113302990000022
+              ],
+              [
+                81.47924967900008,
+                7.113273534000029
+              ],
+              [
+                81.47924960500006,
+                7.113225349000061
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

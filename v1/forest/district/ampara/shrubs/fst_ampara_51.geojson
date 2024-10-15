@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 51,
+        "forest_type": 13,
+        "forest_name": " ",
+        "range": " ",
+        "beat": " ",
+        "division": " ",
+        "fa_division": null,
+        "gfcode": "47",
+        "description": "Shrubs",
+        "area_final": 0.11035417,
+        "district": "Ampara",
+        "st_area(shape)": 9.042976627800002e-8,
+        "st_length(shape)": 0.001922993397025863
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                81.44224629700005,
+                7.600241315000062
+              ],
+              [
+                81.44195455100004,
+                7.601009016000035
+              ],
+              [
+                81.44194629700007,
+                7.601118297000028
+              ],
+              [
+                81.44230640900008,
+                7.600583304000054
+              ],
+              [
+                81.44224629700005,
+                7.600241315000062
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

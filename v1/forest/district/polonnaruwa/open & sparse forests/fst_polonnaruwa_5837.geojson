@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 5837,
+        "forest_type": 11,
+        "forest_name": " ",
+        "range": " ",
+        "beat": " ",
+        "division": " ",
+        "fa_division": null,
+        "gfcode": "28",
+        "description": "Open & Sparse Forests",
+        "area_final": 0.21872339,
+        "district": "Polonnaruwa",
+        "st_area(shape)": 1.7956184294850004e-7,
+        "st_length(shape)": 0.0022751606679151247
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                80.96530846200005,
+                8.320196813000052
+              ],
+              [
+                80.96507452100008,
+                8.320086581000055
+              ],
+              [
+                80.96507498900007,
+                8.321041480000076
+              ],
+              [
+                80.96507927200008,
+                8.321117600000036
+              ],
+              [
+                80.96526076100008,
+                8.320887585000037
+              ],
+              [
+                80.96530846200005,
+                8.320196813000052
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

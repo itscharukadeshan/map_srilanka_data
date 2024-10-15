@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 8055,
+        "forest_type": 11,
+        "forest_name": " ",
+        "range": " ",
+        "beat": " ",
+        "division": " ",
+        "fa_division": null,
+        "gfcode": "38",
+        "description": "Open & Sparse Forests",
+        "area_final": 0.00333746,
+        "district": "Batticaloa",
+        "st_area(shape)": 2.739195659000001e-9,
+        "st_length(shape)": 0.00027244133886194594
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                81.38169230900007,
+                8.257371315000057
+              ],
+              [
+                81.38176546400007,
+                8.257275284000059
+              ],
+              [
+                81.38168557600005,
+                8.25730526600006
+              ],
+              [
+                81.38169230900007,
+                8.257371315000057
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

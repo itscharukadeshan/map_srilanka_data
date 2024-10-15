@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 8645,
+        "forest_type": 1,
+        "forest_name": " ",
+        "range": " ",
+        "beat": " ",
+        "division": " ",
+        "fa_division": null,
+        "gfcode": "0",
+        "description": "Dense Forests",
+        "area_final": 0.01430653,
+        "district": "Kilinochchi",
+        "st_area(shape)": 1.1784119403000004e-8,
+        "st_length(shape)": 0.0005514223668168244
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                80.44271102900007,
+                9.570653034000031
+              ],
+              [
+                80.44267655100003,
+                9.570414878000065
+              ],
+              [
+                80.44259885400004,
+                9.570561761000022
+              ],
+              [
+                80.44271102900007,
+                9.570653034000031
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

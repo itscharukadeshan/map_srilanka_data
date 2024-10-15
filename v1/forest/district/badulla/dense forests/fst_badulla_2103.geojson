@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 2103,
+        "forest_type": 3,
+        "forest_name": " ",
+        "range": " ",
+        "beat": " ",
+        "division": " ",
+        "fa_division": null,
+        "gfcode": "41",
+        "description": "Dense Forests",
+        "area_final": 0.05519989,
+        "district": "Badulla",
+        "st_area(shape)": 4.515144731050001e-8,
+        "st_length(shape)": 0.0011570536099305628
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                80.91511320400008,
+                6.68755132800004
+              ],
+              [
+                80.91510156200007,
+                6.687576956000044
+              ],
+              [
+                80.91525541400006,
+                6.687792173000048
+              ],
+              [
+                80.91549406700005,
+                6.687935241000048
+              ],
+              [
+                80.91549798100004,
+                6.68781651300003
+              ],
+              [
+                80.91511320400008,
+                6.68755132800004
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
